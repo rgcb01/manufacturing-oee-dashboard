@@ -71,13 +71,17 @@ Intentional patterns are documented in [docs/assumptions.md](docs/assumptions.md
 
 ## Screenshots
 
-Updated V2 screenshots can be added here:
+### V2 Dashboard Overview
 
-```txt
-assets/screenshots/v2-dashboard-overview.png
-assets/screenshots/v2-loss-analysis.png
-assets/screenshots/v2-engineering-insights.png
-```
+![V2 dashboard overview](assets/screenshots/v2-dashboard-overview.png)
+
+### V2 Loss Analysis
+
+![V2 loss analysis](assets/screenshots/v2-loss-analysis.png)
+
+### V2 Engineering Insights
+
+![V2 engineering insights](assets/screenshots/v2-engineering-insights.png)
 
 ## How to Run
 
