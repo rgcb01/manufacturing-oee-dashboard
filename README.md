@@ -2,6 +2,8 @@
 
 This project uses synthetic data and was created as a professional portfolio project.
 
+**Technical Paper:** *[OEE-Based Manufacturing Loss Diagnostics: A Reproducible Synthetic Case Study](paper/OEE_Based_Manufacturing_Loss_Diagnostics_v1.0.pdf)* — IEEE-style engineering case study documenting the methodology, controlled experiment, results, and limitations.
+
 ## Problem
 
 Manufacturing engineers need to identify where OEE losses originate, whether performance is improving or deteriorating, and which line, shift, product or loss category should be investigated first.
