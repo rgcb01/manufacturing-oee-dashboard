@@ -1,0 +1,632 @@
+date,line,shift,reason,duration_minutes
+2026-07-01,Line-A,Shift-1,Maintenance,41
+2026-07-01,Line-A,Shift-2,Quality hold,11
+2026-07-01,Line-A,Shift-2,Material shortage,13
+2026-07-01,Line-A,Shift-3,Minor stop,6
+2026-07-01,Line-A,Shift-3,Minor stop,16
+2026-07-01,Line-A,Shift-3,Minor stop,7
+2026-07-01,Line-A,Shift-3,Changeover,10
+2026-07-01,Line-B,Shift-1,Tooling adjustment,58
+2026-07-01,Line-B,Shift-2,Tooling adjustment,9
+2026-07-01,Line-B,Shift-2,Tooling adjustment,11
+2026-07-01,Line-B,Shift-2,Tooling adjustment,37
+2026-07-01,Line-B,Shift-3,Changeover,8
+2026-07-01,Line-B,Shift-3,Material shortage,16
+2026-07-01,Line-C,Shift-1,Quality hold,44
+2026-07-01,Line-C,Shift-1,Quality hold,46
+2026-07-01,Line-C,Shift-2,Maintenance,7
+2026-07-01,Line-C,Shift-2,Quality hold,56
+2026-07-01,Line-C,Shift-3,Maintenance,6
+2026-07-01,Line-C,Shift-3,Maintenance,3
+2026-07-01,Line-C,Shift-3,Tooling adjustment,3
+2026-07-02,Line-A,Shift-1,Material shortage,5
+2026-07-02,Line-A,Shift-1,Tooling adjustment,3
+2026-07-02,Line-A,Shift-1,Minor stop,3
+2026-07-02,Line-A,Shift-2,Changeover,6
+2026-07-02,Line-A,Shift-2,Maintenance,6
+2026-07-02,Line-A,Shift-2,Changeover,18
+2026-07-02,Line-A,Shift-3,Maintenance,11
+2026-07-02,Line-A,Shift-3,Maintenance,31
+2026-07-02,Line-B,Shift-1,Material shortage,76
+2026-07-02,Line-B,Shift-2,Tooling adjustment,40
+2026-07-02,Line-B,Shift-3,Quality hold,10
+2026-07-02,Line-B,Shift-3,Material shortage,9
+2026-07-02,Line-B,Shift-3,Changeover,3
+2026-07-02,Line-B,Shift-3,Tooling adjustment,15
+2026-07-02,Line-C,Shift-1,Changeover,69
+2026-07-02,Line-C,Shift-2,Quality hold,29
+2026-07-02,Line-C,Shift-3,Changeover,15
+2026-07-02,Line-C,Shift-3,Material shortage,24
+2026-07-03,Line-A,Shift-2,Maintenance,35
+2026-07-03,Line-A,Shift-2,Changeover,5
+2026-07-03,Line-A,Shift-2,Changeover,11
+2026-07-03,Line-A,Shift-2,Material shortage,19
+2026-07-03,Line-B,Shift-1,Material shortage,19
+2026-07-03,Line-B,Shift-1,Tooling adjustment,24
+2026-07-03,Line-B,Shift-1,Minor stop,31
+2026-07-03,Line-B,Shift-2,Maintenance,12
+2026-07-03,Line-B,Shift-2,Changeover,4
+2026-07-03,Line-B,Shift-2,Material shortage,7
+2026-07-03,Line-B,Shift-2,Maintenance,9
+2026-07-03,Line-B,Shift-3,Tooling adjustment,12
+2026-07-03,Line-B,Shift-3,Tooling adjustment,3
+2026-07-03,Line-B,Shift-3,Maintenance,9
+2026-07-03,Line-C,Shift-1,Material shortage,24
+2026-07-03,Line-C,Shift-1,Tooling adjustment,48
+2026-07-03,Line-C,Shift-2,Tooling adjustment,4
+2026-07-03,Line-C,Shift-2,Material shortage,5
+2026-07-03,Line-C,Shift-2,Tooling adjustment,7
+2026-07-03,Line-C,Shift-3,Material shortage,38
+2026-07-03,Line-C,Shift-3,Material shortage,16
+2026-07-03,Line-C,Shift-3,Changeover,22
+2026-07-04,Line-A,Shift-1,Tooling adjustment,12
+2026-07-04,Line-A,Shift-1,Material shortage,4
+2026-07-04,Line-A,Shift-1,Material shortage,4
+2026-07-04,Line-A,Shift-1,Quality hold,9
+2026-07-04,Line-A,Shift-2,Quality hold,57
+2026-07-04,Line-B,Shift-1,Maintenance,8
+2026-07-04,Line-B,Shift-1,Changeover,4
+2026-07-04,Line-B,Shift-1,Minor stop,3
+2026-07-04,Line-B,Shift-1,Material shortage,4
+2026-07-04,Line-B,Shift-2,Changeover,19
+2026-07-04,Line-B,Shift-2,Tooling adjustment,65
+2026-07-04,Line-C,Shift-1,Tooling adjustment,16
+2026-07-04,Line-C,Shift-1,Quality hold,50
+2026-07-04,Line-C,Shift-2,Quality hold,17
+2026-07-04,Line-C,Shift-2,Material shortage,8
+2026-07-04,Line-C,Shift-2,Quality hold,5
+2026-07-04,Line-C,Shift-2,Tooling adjustment,6
+2026-07-04,Line-C,Shift-3,Minor stop,24
+2026-07-04,Line-C,Shift-3,Material shortage,42
+2026-07-05,Line-A,Shift-1,Material shortage,21
+2026-07-05,Line-A,Shift-1,Quality hold,9
+2026-07-05,Line-A,Shift-1,Material shortage,6
+2026-07-05,Line-A,Shift-1,Material shortage,6
+2026-07-05,Line-A,Shift-2,Quality hold,69
+2026-07-05,Line-A,Shift-3,Tooling adjustment,4
+2026-07-05,Line-A,Shift-3,Quality hold,4
+2026-07-05,Line-A,Shift-3,Material shortage,3
+2026-07-05,Line-A,Shift-3,Tooling adjustment,1
+2026-07-05,Line-B,Shift-1,Minor stop,5
+2026-07-05,Line-B,Shift-1,Material shortage,3
+2026-07-05,Line-B,Shift-1,Material shortage,9
+2026-07-05,Line-B,Shift-2,Maintenance,15
+2026-07-05,Line-B,Shift-2,Maintenance,3
+2026-07-05,Line-B,Shift-2,Quality hold,15
+2026-07-05,Line-B,Shift-2,Changeover,31
+2026-07-05,Line-B,Shift-3,Quality hold,51
+2026-07-05,Line-C,Shift-1,Quality hold,11
+2026-07-05,Line-C,Shift-1,Changeover,8
+2026-07-05,Line-C,Shift-1,Quality hold,11
+2026-07-05,Line-C,Shift-1,Minor stop,38
+2026-07-05,Line-C,Shift-2,Changeover,7
+2026-07-05,Line-C,Shift-2,Changeover,6
+2026-07-05,Line-C,Shift-2,Maintenance,5
+2026-07-05,Line-C,Shift-2,Changeover,6
+2026-07-05,Line-C,Shift-3,Maintenance,43
+2026-07-06,Line-A,Shift-1,Material shortage,46
+2026-07-06,Line-A,Shift-2,Tooling adjustment,3
+2026-07-06,Line-A,Shift-2,Minor stop,8
+2026-07-06,Line-A,Shift-3,Quality hold,64
+2026-07-06,Line-B,Shift-1,Quality hold,3
+2026-07-06,Line-B,Shift-1,Minor stop,3
+2026-07-06,Line-B,Shift-1,Changeover,3
+2026-07-06,Line-B,Shift-2,Minor stop,14
+2026-07-06,Line-B,Shift-2,Minor stop,43
+2026-07-06,Line-B,Shift-3,Quality hold,34
+2026-07-06,Line-B,Shift-3,Changeover,3
+2026-07-06,Line-B,Shift-3,Material shortage,12
+2026-07-06,Line-B,Shift-3,Quality hold,25
+2026-07-06,Line-C,Shift-1,Quality hold,25
+2026-07-06,Line-C,Shift-1,Minor stop,11
+2026-07-06,Line-C,Shift-1,Minor stop,25
+2026-07-06,Line-C,Shift-2,Quality hold,26
+2026-07-06,Line-C,Shift-2,Minor stop,37
+2026-07-06,Line-C,Shift-3,Changeover,11
+2026-07-06,Line-C,Shift-3,Changeover,51
+2026-07-07,Line-A,Shift-1,Changeover,3
+2026-07-07,Line-A,Shift-1,Quality hold,6
+2026-07-07,Line-A,Shift-1,Maintenance,3
+2026-07-07,Line-A,Shift-1,Tooling adjustment,4
+2026-07-07,Line-A,Shift-2,Quality hold,19
+2026-07-07,Line-A,Shift-2,Quality hold,27
+2026-07-07,Line-A,Shift-3,Tooling adjustment,4
+2026-07-07,Line-A,Shift-3,Changeover,7
+2026-07-07,Line-B,Shift-1,Changeover,5
+2026-07-07,Line-B,Shift-1,Minor stop,3
+2026-07-07,Line-B,Shift-1,Tooling adjustment,4
+2026-07-07,Line-B,Shift-1,Quality hold,4
+2026-07-07,Line-B,Shift-2,Changeover,15
+2026-07-07,Line-B,Shift-3,Maintenance,11
+2026-07-07,Line-B,Shift-3,Quality hold,20
+2026-07-07,Line-B,Shift-3,Changeover,10
+2026-07-07,Line-B,Shift-3,Maintenance,14
+2026-07-07,Line-C,Shift-1,Tooling adjustment,59
+2026-07-07,Line-C,Shift-2,Changeover,18
+2026-07-07,Line-C,Shift-2,Minor stop,10
+2026-07-07,Line-C,Shift-2,Minor stop,6
+2026-07-07,Line-C,Shift-2,Minor stop,10
+2026-07-07,Line-C,Shift-3,Quality hold,6
+2026-07-07,Line-C,Shift-3,Changeover,19
+2026-07-07,Line-C,Shift-3,Tooling adjustment,28
+2026-07-08,Line-A,Shift-1,Maintenance,5
+2026-07-08,Line-A,Shift-1,Material shortage,9
+2026-07-08,Line-A,Shift-2,Quality hold,6
+2026-07-08,Line-A,Shift-2,Changeover,30
+2026-07-08,Line-A,Shift-3,Material shortage,9
+2026-07-08,Line-A,Shift-3,Maintenance,12
+2026-07-08,Line-B,Shift-1,Quality hold,7
+2026-07-08,Line-B,Shift-1,Quality hold,11
+2026-07-08,Line-B,Shift-1,Minor stop,5
+2026-07-08,Line-B,Shift-1,Maintenance,14
+2026-07-08,Line-B,Shift-2,Quality hold,25
+2026-07-08,Line-B,Shift-2,Tooling adjustment,15
+2026-07-08,Line-B,Shift-2,Quality hold,5
+2026-07-08,Line-B,Shift-2,Changeover,16
+2026-07-08,Line-B,Shift-3,Tooling adjustment,16
+2026-07-08,Line-B,Shift-3,Material shortage,44
+2026-07-08,Line-C,Shift-1,Minor stop,23
+2026-07-08,Line-C,Shift-2,Quality hold,45
+2026-07-08,Line-C,Shift-3,Minor stop,78
+2026-07-09,Line-A,Shift-1,Material shortage,5
+2026-07-09,Line-A,Shift-1,Changeover,20
+2026-07-09,Line-A,Shift-2,Changeover,24
+2026-07-09,Line-A,Shift-2,Minor stop,10
+2026-07-09,Line-A,Shift-2,Tooling adjustment,15
+2026-07-09,Line-A,Shift-3,Material shortage,4
+2026-07-09,Line-A,Shift-3,Maintenance,9
+2026-07-09,Line-A,Shift-3,Maintenance,5
+2026-07-09,Line-A,Shift-3,Minor stop,14
+2026-07-09,Line-B,Shift-1,Minor stop,7
+2026-07-09,Line-B,Shift-1,Material shortage,10
+2026-07-09,Line-B,Shift-2,Material shortage,16
+2026-07-09,Line-B,Shift-2,Material shortage,6
+2026-07-09,Line-B,Shift-2,Maintenance,21
+2026-07-09,Line-B,Shift-3,Minor stop,14
+2026-07-09,Line-B,Shift-3,Quality hold,4
+2026-07-09,Line-B,Shift-3,Changeover,17
+2026-07-09,Line-C,Shift-1,Tooling adjustment,24
+2026-07-09,Line-C,Shift-1,Maintenance,11
+2026-07-09,Line-C,Shift-1,Quality hold,27
+2026-07-09,Line-C,Shift-2,Minor stop,25
+2026-07-09,Line-C,Shift-2,Quality hold,13
+2026-07-09,Line-C,Shift-2,Material shortage,3
+2026-07-09,Line-C,Shift-2,Changeover,13
+2026-07-09,Line-C,Shift-3,Tooling adjustment,40
+2026-07-09,Line-C,Shift-3,Quality hold,7
+2026-07-09,Line-C,Shift-3,Quality hold,6
+2026-07-09,Line-C,Shift-3,Maintenance,30
+2026-07-10,Line-A,Shift-1,Tooling adjustment,9
+2026-07-10,Line-A,Shift-1,Maintenance,14
+2026-07-10,Line-A,Shift-1,Tooling adjustment,47
+2026-07-10,Line-A,Shift-2,Changeover,84
+2026-07-10,Line-A,Shift-3,Minor stop,6
+2026-07-10,Line-A,Shift-3,Material shortage,21
+2026-07-10,Line-B,Shift-1,Changeover,23
+2026-07-10,Line-B,Shift-1,Material shortage,56
+2026-07-10,Line-B,Shift-2,Quality hold,72
+2026-07-10,Line-B,Shift-3,Quality hold,25
+2026-07-10,Line-B,Shift-3,Changeover,5
+2026-07-10,Line-B,Shift-3,Maintenance,13
+2026-07-10,Line-B,Shift-3,Material shortage,24
+2026-07-10,Line-C,Shift-1,Maintenance,17
+2026-07-10,Line-C,Shift-1,Quality hold,12
+2026-07-10,Line-C,Shift-1,Changeover,23
+2026-07-10,Line-C,Shift-2,Minor stop,3
+2026-07-10,Line-C,Shift-2,Minor stop,3
+2026-07-10,Line-C,Shift-3,Tooling adjustment,65
+2026-07-11,Line-A,Shift-2,Minor stop,67
+2026-07-11,Line-A,Shift-3,Minor stop,5
+2026-07-11,Line-A,Shift-3,Changeover,4
+2026-07-11,Line-A,Shift-3,Material shortage,5
+2026-07-11,Line-B,Shift-1,Changeover,19
+2026-07-11,Line-B,Shift-2,Material shortage,15
+2026-07-11,Line-B,Shift-3,Quality hold,31
+2026-07-11,Line-B,Shift-3,Material shortage,11
+2026-07-11,Line-B,Shift-3,Changeover,11
+2026-07-11,Line-B,Shift-3,Minor stop,16
+2026-07-11,Line-C,Shift-1,Material shortage,9
+2026-07-11,Line-C,Shift-1,Minor stop,27
+2026-07-11,Line-C,Shift-1,Minor stop,29
+2026-07-11,Line-C,Shift-2,Maintenance,19
+2026-07-11,Line-C,Shift-2,Tooling adjustment,29
+2026-07-11,Line-C,Shift-3,Tooling adjustment,14
+2026-07-11,Line-C,Shift-3,Minor stop,6
+2026-07-11,Line-C,Shift-3,Quality hold,3
+2026-07-11,Line-C,Shift-3,Changeover,9
+2026-07-12,Line-A,Shift-1,Quality hold,21
+2026-07-12,Line-A,Shift-1,Changeover,11
+2026-07-12,Line-A,Shift-1,Minor stop,6
+2026-07-12,Line-A,Shift-1,Tooling adjustment,6
+2026-07-12,Line-A,Shift-2,Changeover,6
+2026-07-12,Line-A,Shift-2,Material shortage,20
+2026-07-12,Line-A,Shift-3,Maintenance,17
+2026-07-12,Line-A,Shift-3,Tooling adjustment,10
+2026-07-12,Line-A,Shift-3,Tooling adjustment,5
+2026-07-12,Line-A,Shift-3,Tooling adjustment,6
+2026-07-12,Line-B,Shift-1,Minor stop,12
+2026-07-12,Line-B,Shift-2,Maintenance,4
+2026-07-12,Line-B,Shift-2,Quality hold,3
+2026-07-12,Line-B,Shift-2,Minor stop,3
+2026-07-12,Line-B,Shift-3,Maintenance,17
+2026-07-12,Line-B,Shift-3,Maintenance,11
+2026-07-12,Line-B,Shift-3,Minor stop,5
+2026-07-12,Line-B,Shift-3,Minor stop,19
+2026-07-12,Line-C,Shift-1,Minor stop,12
+2026-07-12,Line-C,Shift-1,Tooling adjustment,14
+2026-07-12,Line-C,Shift-1,Material shortage,7
+2026-07-12,Line-C,Shift-1,Minor stop,7
+2026-07-12,Line-C,Shift-2,Minor stop,29
+2026-07-12,Line-C,Shift-3,Quality hold,24
+2026-07-12,Line-C,Shift-3,Material shortage,50
+2026-07-13,Line-A,Shift-1,Tooling adjustment,30
+2026-07-13,Line-A,Shift-2,Changeover,31
+2026-07-13,Line-A,Shift-2,Quality hold,51
+2026-07-13,Line-A,Shift-3,Tooling adjustment,14
+2026-07-13,Line-A,Shift-3,Maintenance,29
+2026-07-13,Line-B,Shift-1,Changeover,11
+2026-07-13,Line-B,Shift-1,Tooling adjustment,48
+2026-07-13,Line-B,Shift-2,Material shortage,54
+2026-07-13,Line-B,Shift-3,Minor stop,49
+2026-07-13,Line-C,Shift-1,Quality hold,29
+2026-07-13,Line-C,Shift-1,Material shortage,14
+2026-07-13,Line-C,Shift-1,Tooling adjustment,17
+2026-07-13,Line-C,Shift-2,Minor stop,3
+2026-07-13,Line-C,Shift-2,Minor stop,3
+2026-07-13,Line-C,Shift-2,Changeover,3
+2026-07-13,Line-C,Shift-2,Material shortage,3
+2026-07-13,Line-C,Shift-3,Material shortage,25
+2026-07-13,Line-C,Shift-3,Minor stop,31
+2026-07-14,Line-A,Shift-1,Maintenance,3
+2026-07-14,Line-A,Shift-1,Maintenance,7
+2026-07-14,Line-A,Shift-1,Maintenance,7
+2026-07-14,Line-A,Shift-2,Maintenance,41
+2026-07-14,Line-A,Shift-3,Material shortage,23
+2026-07-14,Line-A,Shift-3,Changeover,5
+2026-07-14,Line-A,Shift-3,Quality hold,8
+2026-07-14,Line-A,Shift-3,Changeover,10
+2026-07-14,Line-B,Shift-1,Tooling adjustment,5
+2026-07-14,Line-B,Shift-1,Minor stop,9
+2026-07-14,Line-B,Shift-1,Minor stop,54
+2026-07-14,Line-B,Shift-2,Minor stop,9
+2026-07-14,Line-B,Shift-2,Quality hold,5
+2026-07-14,Line-B,Shift-2,Quality hold,8
+2026-07-14,Line-B,Shift-2,Minor stop,8
+2026-07-14,Line-B,Shift-3,Maintenance,10
+2026-07-14,Line-B,Shift-3,Quality hold,5
+2026-07-14,Line-B,Shift-3,Material shortage,6
+2026-07-14,Line-C,Shift-1,Changeover,36
+2026-07-14,Line-C,Shift-2,Tooling adjustment,27
+2026-07-14,Line-C,Shift-2,Minor stop,35
+2026-07-14,Line-C,Shift-3,Maintenance,12
+2026-07-15,Line-A,Shift-1,Maintenance,10
+2026-07-15,Line-A,Shift-1,Quality hold,24
+2026-07-15,Line-A,Shift-2,Quality hold,59
+2026-07-15,Line-A,Shift-3,Tooling adjustment,5
+2026-07-15,Line-A,Shift-3,Tooling adjustment,8
+2026-07-15,Line-A,Shift-3,Tooling adjustment,10
+2026-07-15,Line-B,Shift-1,Changeover,4
+2026-07-15,Line-B,Shift-1,Minor stop,5
+2026-07-15,Line-B,Shift-2,Material shortage,7
+2026-07-15,Line-B,Shift-3,Material shortage,52
+2026-07-15,Line-B,Shift-3,Quality hold,78
+2026-07-15,Line-C,Shift-1,Minor stop,4
+2026-07-15,Line-C,Shift-1,Tooling adjustment,6
+2026-07-15,Line-C,Shift-1,Maintenance,15
+2026-07-15,Line-C,Shift-2,Maintenance,24
+2026-07-15,Line-C,Shift-2,Changeover,51
+2026-07-15,Line-C,Shift-3,Maintenance,8
+2026-07-15,Line-C,Shift-3,Tooling adjustment,4
+2026-07-15,Line-C,Shift-3,Quality hold,3
+2026-07-15,Line-C,Shift-3,Material shortage,3
+2026-07-16,Line-A,Shift-1,Minor stop,3
+2026-07-16,Line-A,Shift-1,Tooling adjustment,3
+2026-07-16,Line-A,Shift-1,Minor stop,2
+2026-07-16,Line-A,Shift-2,Minor stop,42
+2026-07-16,Line-A,Shift-3,Material shortage,27
+2026-07-16,Line-A,Shift-3,Quality hold,27
+2026-07-16,Line-B,Shift-2,Tooling adjustment,11
+2026-07-16,Line-B,Shift-2,Minor stop,28
+2026-07-16,Line-B,Shift-3,Tooling adjustment,12
+2026-07-16,Line-B,Shift-3,Changeover,7
+2026-07-16,Line-B,Shift-3,Material shortage,10
+2026-07-16,Line-C,Shift-1,Maintenance,9
+2026-07-16,Line-C,Shift-1,Maintenance,48
+2026-07-16,Line-C,Shift-2,Maintenance,8
+2026-07-16,Line-C,Shift-2,Minor stop,24
+2026-07-17,Line-A,Shift-1,Maintenance,11
+2026-07-17,Line-A,Shift-3,Maintenance,19
+2026-07-17,Line-A,Shift-3,Tooling adjustment,18
+2026-07-17,Line-A,Shift-3,Tooling adjustment,3
+2026-07-17,Line-A,Shift-3,Material shortage,22
+2026-07-17,Line-B,Shift-1,Minor stop,20
+2026-07-17,Line-B,Shift-1,Maintenance,7
+2026-07-17,Line-B,Shift-1,Quality hold,17
+2026-07-17,Line-B,Shift-2,Quality hold,13
+2026-07-17,Line-B,Shift-2,Maintenance,14
+2026-07-17,Line-B,Shift-2,Minor stop,7
+2026-07-17,Line-B,Shift-2,Changeover,18
+2026-07-17,Line-B,Shift-3,Tooling adjustment,31
+2026-07-17,Line-B,Shift-3,Tooling adjustment,19
+2026-07-17,Line-B,Shift-3,Quality hold,55
+2026-07-17,Line-C,Shift-1,Material shortage,23
+2026-07-17,Line-C,Shift-1,Changeover,40
+2026-07-17,Line-C,Shift-2,Maintenance,67
+2026-07-17,Line-C,Shift-3,Changeover,18
+2026-07-18,Line-A,Shift-1,Material shortage,4
+2026-07-18,Line-A,Shift-1,Changeover,3
+2026-07-18,Line-A,Shift-1,Minor stop,3
+2026-07-18,Line-A,Shift-2,Quality hold,26
+2026-07-18,Line-A,Shift-2,Tooling adjustment,31
+2026-07-18,Line-A,Shift-3,Quality hold,9
+2026-07-18,Line-A,Shift-3,Maintenance,11
+2026-07-18,Line-B,Shift-2,Quality hold,49
+2026-07-18,Line-B,Shift-3,Material shortage,3
+2026-07-18,Line-B,Shift-3,Quality hold,2
+2026-07-18,Line-C,Shift-2,Material shortage,12
+2026-07-18,Line-C,Shift-2,Minor stop,57
+2026-07-18,Line-C,Shift-3,Maintenance,17
+2026-07-18,Line-C,Shift-3,Maintenance,4
+2026-07-18,Line-C,Shift-3,Tooling adjustment,10
+2026-07-18,Line-C,Shift-3,Minor stop,25
+2026-07-19,Line-A,Shift-1,Quality hold,8
+2026-07-19,Line-A,Shift-2,Quality hold,14
+2026-07-19,Line-A,Shift-2,Quality hold,17
+2026-07-19,Line-A,Shift-2,Changeover,9
+2026-07-19,Line-A,Shift-2,Tooling adjustment,19
+2026-07-19,Line-A,Shift-3,Tooling adjustment,17
+2026-07-19,Line-A,Shift-3,Quality hold,11
+2026-07-19,Line-A,Shift-3,Maintenance,11
+2026-07-19,Line-B,Shift-1,Changeover,25
+2026-07-19,Line-B,Shift-2,Quality hold,20
+2026-07-19,Line-B,Shift-3,Maintenance,12
+2026-07-19,Line-B,Shift-3,Material shortage,5
+2026-07-19,Line-B,Shift-3,Minor stop,10
+2026-07-19,Line-C,Shift-1,Maintenance,16
+2026-07-19,Line-C,Shift-1,Quality hold,23
+2026-07-19,Line-C,Shift-2,Material shortage,15
+2026-07-19,Line-C,Shift-2,Maintenance,15
+2026-07-19,Line-C,Shift-2,Quality hold,20
+2026-07-19,Line-C,Shift-3,Material shortage,15
+2026-07-19,Line-C,Shift-3,Minor stop,45
+2026-07-20,Line-A,Shift-2,Minor stop,9
+2026-07-20,Line-A,Shift-2,Changeover,12
+2026-07-20,Line-A,Shift-2,Material shortage,9
+2026-07-20,Line-A,Shift-2,Tooling adjustment,27
+2026-07-20,Line-A,Shift-3,Quality hold,21
+2026-07-20,Line-A,Shift-3,Maintenance,17
+2026-07-20,Line-A,Shift-3,Tooling adjustment,41
+2026-07-20,Line-B,Shift-1,Minor stop,26
+2026-07-20,Line-B,Shift-1,Quality hold,71
+2026-07-20,Line-B,Shift-2,Material shortage,21
+2026-07-20,Line-B,Shift-2,Minor stop,9
+2026-07-20,Line-B,Shift-2,Quality hold,10
+2026-07-20,Line-B,Shift-2,Maintenance,41
+2026-07-20,Line-B,Shift-3,Tooling adjustment,8
+2026-07-20,Line-B,Shift-3,Material shortage,14
+2026-07-20,Line-B,Shift-3,Tooling adjustment,5
+2026-07-20,Line-B,Shift-3,Maintenance,17
+2026-07-20,Line-C,Shift-1,Quality hold,14
+2026-07-20,Line-C,Shift-2,Changeover,34
+2026-07-20,Line-C,Shift-2,Maintenance,3
+2026-07-20,Line-C,Shift-2,Quality hold,11
+2026-07-20,Line-C,Shift-2,Changeover,22
+2026-07-20,Line-C,Shift-3,Changeover,8
+2026-07-20,Line-C,Shift-3,Changeover,17
+2026-07-20,Line-C,Shift-3,Material shortage,7
+2026-07-20,Line-C,Shift-3,Material shortage,11
+2026-07-21,Line-A,Shift-1,Minor stop,10
+2026-07-21,Line-A,Shift-1,Tooling adjustment,29
+2026-07-21,Line-A,Shift-2,Tooling adjustment,65
+2026-07-21,Line-A,Shift-3,Maintenance,61
+2026-07-21,Line-B,Shift-1,Material shortage,3
+2026-07-21,Line-B,Shift-1,Changeover,4
+2026-07-21,Line-B,Shift-1,Material shortage,6
+2026-07-21,Line-B,Shift-2,Maintenance,28
+2026-07-21,Line-B,Shift-3,Changeover,5
+2026-07-21,Line-B,Shift-3,Minor stop,5
+2026-07-21,Line-B,Shift-3,Quality hold,3
+2026-07-21,Line-B,Shift-3,Material shortage,2
+2026-07-21,Line-C,Shift-1,Minor stop,70
+2026-07-21,Line-C,Shift-2,Minor stop,59
+2026-07-21,Line-C,Shift-3,Changeover,52
+2026-07-22,Line-A,Shift-1,Tooling adjustment,66
+2026-07-22,Line-A,Shift-2,Minor stop,16
+2026-07-22,Line-A,Shift-2,Changeover,10
+2026-07-22,Line-A,Shift-2,Minor stop,13
+2026-07-22,Line-A,Shift-3,Maintenance,13
+2026-07-22,Line-A,Shift-3,Minor stop,15
+2026-07-22,Line-A,Shift-3,Minor stop,10
+2026-07-22,Line-A,Shift-3,Quality hold,22
+2026-07-22,Line-B,Shift-1,Material shortage,21
+2026-07-22,Line-B,Shift-1,Quality hold,8
+2026-07-22,Line-B,Shift-1,Quality hold,7
+2026-07-22,Line-B,Shift-1,Minor stop,16
+2026-07-22,Line-B,Shift-2,Material shortage,25
+2026-07-22,Line-B,Shift-2,Minor stop,17
+2026-07-22,Line-B,Shift-2,Quality hold,4
+2026-07-22,Line-B,Shift-2,Tooling adjustment,17
+2026-07-22,Line-B,Shift-3,Quality hold,12
+2026-07-22,Line-B,Shift-3,Maintenance,9
+2026-07-22,Line-B,Shift-3,Minor stop,3
+2026-07-22,Line-B,Shift-3,Tooling adjustment,8
+2026-07-22,Line-C,Shift-2,Minor stop,17
+2026-07-22,Line-C,Shift-2,Quality hold,31
+2026-07-22,Line-C,Shift-3,Changeover,81
+2026-07-23,Line-A,Shift-1,Minor stop,35
+2026-07-23,Line-A,Shift-2,Maintenance,10
+2026-07-23,Line-A,Shift-2,Material shortage,40
+2026-07-23,Line-A,Shift-3,Maintenance,17
+2026-07-23,Line-A,Shift-3,Quality hold,38
+2026-07-23,Line-B,Shift-1,Minor stop,26
+2026-07-23,Line-B,Shift-1,Material shortage,48
+2026-07-23,Line-B,Shift-2,Maintenance,7
+2026-07-23,Line-B,Shift-2,Tooling adjustment,3
+2026-07-23,Line-B,Shift-2,Material shortage,7
+2026-07-23,Line-B,Shift-3,Maintenance,9
+2026-07-23,Line-B,Shift-3,Maintenance,4
+2026-07-23,Line-B,Shift-3,Quality hold,4
+2026-07-23,Line-B,Shift-3,Material shortage,4
+2026-07-23,Line-C,Shift-1,Quality hold,3
+2026-07-23,Line-C,Shift-1,Material shortage,7
+2026-07-23,Line-C,Shift-1,Quality hold,45
+2026-07-23,Line-C,Shift-2,Changeover,12
+2026-07-23,Line-C,Shift-2,Minor stop,46
+2026-07-23,Line-C,Shift-3,Maintenance,47
+2026-07-24,Line-A,Shift-1,Changeover,4
+2026-07-24,Line-A,Shift-1,Tooling adjustment,7
+2026-07-24,Line-A,Shift-3,Maintenance,20
+2026-07-24,Line-A,Shift-3,Material shortage,20
+2026-07-24,Line-A,Shift-3,Minor stop,30
+2026-07-24,Line-B,Shift-1,Material shortage,11
+2026-07-24,Line-B,Shift-1,Material shortage,71
+2026-07-24,Line-B,Shift-2,Quality hold,32
+2026-07-24,Line-B,Shift-3,Maintenance,38
+2026-07-24,Line-C,Shift-1,Quality hold,7
+2026-07-24,Line-C,Shift-1,Minor stop,8
+2026-07-24,Line-C,Shift-2,Material shortage,12
+2026-07-24,Line-C,Shift-2,Minor stop,29
+2026-07-24,Line-C,Shift-3,Quality hold,4
+2026-07-24,Line-C,Shift-3,Tooling adjustment,38
+2026-07-25,Line-A,Shift-1,Changeover,3
+2026-07-25,Line-A,Shift-1,Minor stop,25
+2026-07-25,Line-A,Shift-1,Quality hold,6
+2026-07-25,Line-A,Shift-1,Tooling adjustment,35
+2026-07-25,Line-A,Shift-2,Changeover,42
+2026-07-25,Line-A,Shift-3,Minor stop,6
+2026-07-25,Line-A,Shift-3,Tooling adjustment,13
+2026-07-25,Line-B,Shift-1,Material shortage,13
+2026-07-25,Line-B,Shift-2,Tooling adjustment,27
+2026-07-25,Line-B,Shift-2,Tooling adjustment,3
+2026-07-25,Line-B,Shift-2,Minor stop,32
+2026-07-25,Line-B,Shift-3,Quality hold,18
+2026-07-25,Line-B,Shift-3,Changeover,19
+2026-07-25,Line-C,Shift-1,Maintenance,26
+2026-07-25,Line-C,Shift-1,Quality hold,14
+2026-07-25,Line-C,Shift-1,Changeover,27
+2026-07-25,Line-C,Shift-1,Changeover,30
+2026-07-25,Line-C,Shift-2,Tooling adjustment,16
+2026-07-25,Line-C,Shift-2,Changeover,9
+2026-07-25,Line-C,Shift-2,Minor stop,4
+2026-07-25,Line-C,Shift-2,Changeover,8
+2026-07-25,Line-C,Shift-3,Minor stop,15
+2026-07-26,Line-A,Shift-1,Tooling adjustment,24
+2026-07-26,Line-A,Shift-1,Changeover,8
+2026-07-26,Line-A,Shift-1,Changeover,31
+2026-07-26,Line-A,Shift-2,Changeover,14
+2026-07-26,Line-A,Shift-3,Quality hold,70
+2026-07-26,Line-B,Shift-1,Material shortage,64
+2026-07-26,Line-B,Shift-2,Maintenance,76
+2026-07-26,Line-B,Shift-3,Material shortage,40
+2026-07-26,Line-C,Shift-1,Minor stop,12
+2026-07-26,Line-C,Shift-1,Maintenance,5
+2026-07-26,Line-C,Shift-1,Quality hold,34
+2026-07-26,Line-C,Shift-2,Tooling adjustment,6
+2026-07-26,Line-C,Shift-2,Material shortage,7
+2026-07-26,Line-C,Shift-2,Changeover,3
+2026-07-26,Line-C,Shift-2,Quality hold,7
+2026-07-26,Line-C,Shift-3,Tooling adjustment,16
+2026-07-26,Line-C,Shift-3,Minor stop,8
+2026-07-26,Line-C,Shift-3,Material shortage,3
+2026-07-26,Line-C,Shift-3,Maintenance,7
+2026-07-27,Line-A,Shift-1,Quality hold,19
+2026-07-27,Line-A,Shift-1,Tooling adjustment,36
+2026-07-27,Line-A,Shift-2,Quality hold,39
+2026-07-27,Line-A,Shift-3,Material shortage,34
+2026-07-27,Line-B,Shift-1,Material shortage,27
+2026-07-27,Line-B,Shift-1,Minor stop,10
+2026-07-27,Line-B,Shift-1,Quality hold,22
+2026-07-27,Line-B,Shift-2,Changeover,19
+2026-07-27,Line-B,Shift-2,Minor stop,13
+2026-07-27,Line-B,Shift-2,Material shortage,7
+2026-07-27,Line-B,Shift-2,Changeover,13
+2026-07-27,Line-B,Shift-3,Changeover,10
+2026-07-27,Line-B,Shift-3,Changeover,78
+2026-07-27,Line-C,Shift-1,Changeover,9
+2026-07-27,Line-C,Shift-1,Changeover,3
+2026-07-27,Line-C,Shift-1,Material shortage,6
+2026-07-27,Line-C,Shift-2,Tooling adjustment,29
+2026-07-27,Line-C,Shift-2,Quality hold,15
+2026-07-27,Line-C,Shift-2,Quality hold,3
+2026-07-27,Line-C,Shift-2,Tooling adjustment,19
+2026-07-27,Line-C,Shift-3,Minor stop,13
+2026-07-27,Line-C,Shift-3,Quality hold,19
+2026-07-28,Line-A,Shift-1,Maintenance,43
+2026-07-28,Line-A,Shift-1,Changeover,47
+2026-07-28,Line-A,Shift-2,Material shortage,22
+2026-07-28,Line-A,Shift-2,Minor stop,3
+2026-07-28,Line-A,Shift-2,Changeover,41
+2026-07-28,Line-A,Shift-3,Tooling adjustment,11
+2026-07-28,Line-A,Shift-3,Material shortage,3
+2026-07-28,Line-A,Shift-3,Maintenance,13
+2026-07-28,Line-B,Shift-1,Maintenance,21
+2026-07-28,Line-B,Shift-1,Maintenance,5
+2026-07-28,Line-B,Shift-1,Material shortage,28
+2026-07-28,Line-B,Shift-2,Minor stop,3
+2026-07-28,Line-B,Shift-2,Material shortage,3
+2026-07-28,Line-B,Shift-2,Tooling adjustment,3
+2026-07-28,Line-B,Shift-3,Minor stop,5
+2026-07-28,Line-B,Shift-3,Tooling adjustment,25
+2026-07-28,Line-B,Shift-3,Quality hold,34
+2026-07-28,Line-C,Shift-1,Tooling adjustment,14
+2026-07-28,Line-C,Shift-1,Tooling adjustment,20
+2026-07-28,Line-C,Shift-1,Maintenance,38
+2026-07-28,Line-C,Shift-2,Material shortage,4
+2026-07-28,Line-C,Shift-2,Minor stop,12
+2026-07-28,Line-C,Shift-2,Tooling adjustment,6
+2026-07-28,Line-C,Shift-2,Maintenance,17
+2026-07-28,Line-C,Shift-3,Tooling adjustment,5
+2026-07-28,Line-C,Shift-3,Tooling adjustment,3
+2026-07-28,Line-C,Shift-3,Tooling adjustment,14
+2026-07-29,Line-A,Shift-1,Quality hold,8
+2026-07-29,Line-A,Shift-1,Quality hold,3
+2026-07-29,Line-A,Shift-1,Quality hold,3
+2026-07-29,Line-A,Shift-1,Minor stop,3
+2026-07-29,Line-A,Shift-2,Minor stop,4
+2026-07-29,Line-A,Shift-2,Changeover,19
+2026-07-29,Line-A,Shift-2,Changeover,53
+2026-07-29,Line-A,Shift-3,Maintenance,3
+2026-07-29,Line-A,Shift-3,Material shortage,3
+2026-07-29,Line-A,Shift-3,Changeover,3
+2026-07-29,Line-B,Shift-1,Maintenance,39
+2026-07-29,Line-B,Shift-1,Quality hold,29
+2026-07-29,Line-B,Shift-1,Changeover,5
+2026-07-29,Line-B,Shift-1,Minor stop,28
+2026-07-29,Line-B,Shift-2,Quality hold,5
+2026-07-29,Line-B,Shift-2,Minor stop,6
+2026-07-29,Line-B,Shift-2,Quality hold,46
+2026-07-29,Line-B,Shift-3,Changeover,4
+2026-07-29,Line-B,Shift-3,Minor stop,7
+2026-07-29,Line-C,Shift-1,Maintenance,27
+2026-07-29,Line-C,Shift-1,Maintenance,10
+2026-07-29,Line-C,Shift-1,Quality hold,3
+2026-07-29,Line-C,Shift-1,Maintenance,23
+2026-07-29,Line-C,Shift-2,Maintenance,72
+2026-07-29,Line-C,Shift-3,Tooling adjustment,15
+2026-07-29,Line-C,Shift-3,Maintenance,12
+2026-07-29,Line-C,Shift-3,Minor stop,11
+2026-07-29,Line-C,Shift-3,Tooling adjustment,46
+2026-07-30,Line-A,Shift-1,Changeover,17
+2026-07-30,Line-A,Shift-1,Maintenance,8
+2026-07-30,Line-A,Shift-1,Changeover,4
+2026-07-30,Line-A,Shift-1,Quality hold,5
+2026-07-30,Line-A,Shift-2,Minor stop,9
+2026-07-30,Line-A,Shift-2,Tooling adjustment,9
+2026-07-30,Line-A,Shift-2,Quality hold,13
+2026-07-30,Line-A,Shift-3,Changeover,10
+2026-07-30,Line-A,Shift-3,Minor stop,10
+2026-07-30,Line-A,Shift-3,Minor stop,17
+2026-07-30,Line-B,Shift-1,Minor stop,7
+2026-07-30,Line-B,Shift-1,Tooling adjustment,29
+2026-07-30,Line-B,Shift-2,Changeover,26
+2026-07-30,Line-B,Shift-2,Material shortage,19
+2026-07-30,Line-B,Shift-2,Minor stop,4
+2026-07-30,Line-B,Shift-2,Tooling adjustment,20
+2026-07-30,Line-B,Shift-3,Minor stop,53
+2026-07-30,Line-C,Shift-1,Quality hold,12
+2026-07-30,Line-C,Shift-1,Quality hold,4
+2026-07-30,Line-C,Shift-1,Maintenance,7
+2026-07-30,Line-C,Shift-1,Minor stop,7
+2026-07-30,Line-C,Shift-2,Material shortage,13
+2026-07-30,Line-C,Shift-2,Tooling adjustment,18
+2026-07-30,Line-C,Shift-3,Quality hold,51
