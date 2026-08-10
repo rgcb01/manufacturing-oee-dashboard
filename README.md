@@ -1,8 +1,26 @@
 # Manufacturing OEE & Loss Analysis Dashboard
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-1F4E79)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B)](https://streamlit.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-Data%20Layer-003B57)](https://www.sqlite.org/)
+[![Tests](https://img.shields.io/badge/tests-pytest-0A7B43)](https://docs.pytest.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21879822.svg)](https://doi.org/10.5281/zenodo.21879822)
+
 This project uses synthetic data and was created as a professional portfolio project.
 
-**Technical Paper:** *[OEE-Based Manufacturing Loss Diagnostics: A Reproducible Synthetic Case Study](paper/OEE_Based_Manufacturing_Loss_Diagnostics_v1.0.pdf)* — IEEE-style engineering case study documenting the methodology, controlled experiment, results, and limitations.
+## Technical Paper
+
+**[OEE-Based Manufacturing Loss Diagnostics: A Reproducible Synthetic Case Study](paper/OEE_Based_Manufacturing_Loss_Diagnostics_v1.0.pdf)**
+
+Romulo Colorado, 2026
+
+DOI: [10.5281/zenodo.21879822](https://doi.org/10.5281/zenodo.21879822)
+
+Zenodo record: [https://zenodo.org/records/21879822](https://zenodo.org/records/21879822)
+
+This technical paper documents the methodology, synthetic experimental design, OEE aggregation logic, loss-diagnostic workflow, controlled ground-truth patterns, results, limitations and reproducibility of this project.
+
+The paper accompanies the software implementation contained in this repository. It is a synthetic engineering case study, independently published on Zenodo as a DOI-backed reproducible artifact. It uses IEEE-style formatting, but it is not an IEEE publication and does not claim industrial validation.
 
 ## Problem
 
@@ -10,7 +28,7 @@ Manufacturing engineers need to identify where OEE losses originate, whether per
 
 ## Solution
 
-This V2 dashboard converts synthetic production, downtime and scrap records into diagnostic engineering information:
+This dashboard converts synthetic production, downtime and scrap records into diagnostic engineering information:
 
 ```txt
 Synthetic Data
@@ -22,6 +40,18 @@ Synthetic Data
 ```
 
 The tool is designed for entry-level manufacturing, process, quality, production and continuous improvement engineering portfolio use.
+
+## Paper / Software Relationship
+
+```txt
+Technical Paper
+  <-> Synthetic Experiment
+  <-> Python Analysis Modules
+  <-> SQLite Data Layer
+  <-> Streamlit Engineering Dashboard
+```
+
+The paper is the documented engineering analysis and controlled synthetic experiment. This repository is the reproducible software implementation and supporting artifact.
 
 ## Engineering Questions Answered
 
@@ -43,7 +73,7 @@ The tool is designed for entry-level manufacturing, process, quality, production
 - pytest
 - CSV / Excel-style data files
 
-## V2 Features
+## v1.0.0 Features
 
 - Configurable manufacturing targets for OEE, Availability, Performance, Quality and Scrap Rate.
 - Executive KPI scorecard with target deltas and previous-period comparison.
@@ -71,19 +101,38 @@ No confidential company data is used.
 
 Intentional patterns are documented in [docs/assumptions.md](docs/assumptions.md).
 
+## Reproducibility
+
+The experiment associated with the technical paper is a 30-day synthetic manufacturing case study with:
+
+- 3 production lines
+- 3 shifts
+- 4 products
+- Pseudorandom seed: `42`
+
+Use the following commands to reproduce the dataset and analytics used in the case study:
+
+```bash
+pip install -r requirements.txt
+python src/data_generator.py --output-dir data --days 30 --seed 42
+python src/database.py --data-dir data --db-path data/manufacturing.db
+pytest
+python -m streamlit run app/dashboard.py
+```
+
 ## Screenshots
 
-### V2 Dashboard Overview
+### Dashboard Overview
 
-![V2 dashboard overview](assets/screenshots/v2-dashboard-overview.png)
+![Dashboard overview](assets/screenshots/v2-dashboard-overview.png)
 
-### V2 Loss Analysis
+### Loss Analysis
 
-![V2 loss analysis](assets/screenshots/v2-loss-analysis.png)
+![Loss analysis](assets/screenshots/v2-loss-analysis.png)
 
-### V2 Engineering Insights
+### Engineering Insights
 
-![V2 engineering insights](assets/screenshots/v2-engineering-insights.png)
+![Engineering insights](assets/screenshots/v2-engineering-insights.png)
 
 ## How to Run
 
@@ -105,6 +154,7 @@ pytest
 ```txt
 manufacturing-oee-dashboard/
   README.md
+  CHANGELOG.md
   requirements.txt
   data/
     synthetic_production_data.csv
@@ -133,6 +183,9 @@ manufacturing-oee-dashboard/
   docs/
     kpi_definitions.md
     assumptions.md
+  paper/
+    README.md
+    OEE_Based_Manufacturing_Loss_Diagnostics_v1.0.pdf
   assets/
     screenshots/
 ```
@@ -148,9 +201,27 @@ I built a manufacturing analytics dashboard that goes beyond KPI visualization. 
 - Recommendations are framed as investigation prompts, not unsupported root-cause claims.
 - Cp/Cpk is intentionally excluded because the dataset does not contain legitimate continuous measurements with specification limits.
 
-## Future Improvements
+## Citation
 
-- Add PDF or Excel report export.
-- Add machine-level or station-level traceability.
-- Add a legitimate continuous process measurement dataset for future Cp/Cpk analysis.
-- Add optional statistical tests for improvement validation.
+Romulo Colorado, "OEE-Based Manufacturing Loss Diagnostics: A Reproducible Synthetic Case Study," Zenodo, 2026. doi: 10.5281/zenodo.21879822.
+
+```bibtex
+@misc{colorado2026oee,
+  author       = {Romulo Colorado},
+  title        = {OEE-Based Manufacturing Loss Diagnostics: A Reproducible Synthetic Case Study},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21879822},
+  url          = {https://doi.org/10.5281/zenodo.21879822}
+}
+```
+
+## Release
+
+`v1.0.0` corresponds to the published synthetic case study and freezes the reproducible code, synthetic data workflow, dashboard logic and documentation associated with the DOI-backed technical paper.
+
+## Scope
+
+- Synthetic case study only.
+- No confidential industrial data is used.
+- The project demonstrates reproducibility and engineering loss localization, not industrial validation.
