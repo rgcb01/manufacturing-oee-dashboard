@@ -1,544 +1,541 @@
-date,line,shift,reason,quantity
-2026-07-01,Line-A,Shift-1,Dimensional out-of-spec,1
-2026-07-01,Line-A,Shift-1,Dimensional out-of-spec,6
-2026-07-01,Line-A,Shift-2,Dimensional out-of-spec,2
-2026-07-01,Line-A,Shift-2,Surface defect,3
-2026-07-01,Line-A,Shift-3,Handling damage,2
-2026-07-01,Line-A,Shift-3,Missing component,1
-2026-07-01,Line-A,Shift-3,Dimensional out-of-spec,3
-2026-07-01,Line-B,Shift-1,Assembly misalignment,19
-2026-07-01,Line-B,Shift-2,Handling damage,3
-2026-07-01,Line-B,Shift-2,Surface defect,11
-2026-07-01,Line-B,Shift-2,Handling damage,20
-2026-07-01,Line-B,Shift-3,Assembly misalignment,11
-2026-07-01,Line-C,Shift-1,Surface defect,8
-2026-07-01,Line-C,Shift-1,Surface defect,3
-2026-07-01,Line-C,Shift-1,Surface defect,7
-2026-07-01,Line-C,Shift-2,Dimensional out-of-spec,11
-2026-07-01,Line-C,Shift-3,Handling damage,1
-2026-07-01,Line-C,Shift-3,Assembly misalignment,2
-2026-07-01,Line-C,Shift-3,Dimensional out-of-spec,3
-2026-07-02,Line-A,Shift-1,Surface defect,1
-2026-07-02,Line-A,Shift-1,Surface defect,1
-2026-07-02,Line-A,Shift-1,Handling damage,1
-2026-07-02,Line-A,Shift-2,Missing component,26
-2026-07-02,Line-A,Shift-3,Handling damage,2
-2026-07-02,Line-A,Shift-3,Surface defect,13
-2026-07-02,Line-B,Shift-1,Dimensional out-of-spec,12
-2026-07-02,Line-B,Shift-2,Surface defect,1
-2026-07-02,Line-B,Shift-2,Dimensional out-of-spec,2
-2026-07-02,Line-B,Shift-2,Assembly misalignment,21
-2026-07-02,Line-B,Shift-3,Missing component,6
-2026-07-02,Line-B,Shift-3,Missing component,17
-2026-07-02,Line-C,Shift-1,Dimensional out-of-spec,11
-2026-07-02,Line-C,Shift-1,Surface defect,21
-2026-07-02,Line-C,Shift-2,Dimensional out-of-spec,1
-2026-07-02,Line-C,Shift-2,Handling damage,6
-2026-07-02,Line-C,Shift-2,Dimensional out-of-spec,8
-2026-07-02,Line-C,Shift-3,Missing component,1
-2026-07-02,Line-C,Shift-3,Assembly misalignment,14
-2026-07-03,Line-A,Shift-1,Surface defect,8
-2026-07-03,Line-A,Shift-1,Assembly misalignment,2
-2026-07-03,Line-A,Shift-1,Surface defect,10
-2026-07-03,Line-A,Shift-2,Handling damage,6
-2026-07-03,Line-A,Shift-3,Handling damage,21
-2026-07-03,Line-B,Shift-1,Assembly misalignment,14
-2026-07-03,Line-B,Shift-2,Assembly misalignment,5
-2026-07-03,Line-B,Shift-2,Dimensional out-of-spec,27
-2026-07-03,Line-B,Shift-3,Dimensional out-of-spec,6
-2026-07-03,Line-B,Shift-3,Surface defect,7
-2026-07-03,Line-C,Shift-1,Handling damage,3
-2026-07-03,Line-C,Shift-1,Assembly misalignment,4
-2026-07-03,Line-C,Shift-1,Dimensional out-of-spec,4
-2026-07-03,Line-C,Shift-2,Handling damage,2
-2026-07-03,Line-C,Shift-2,Dimensional out-of-spec,2
-2026-07-03,Line-C,Shift-3,Dimensional out-of-spec,2
-2026-07-03,Line-C,Shift-3,Assembly misalignment,3
-2026-07-04,Line-A,Shift-1,Surface defect,14
-2026-07-04,Line-A,Shift-2,Missing component,9
-2026-07-04,Line-A,Shift-3,Surface defect,4
-2026-07-04,Line-A,Shift-3,Dimensional out-of-spec,15
-2026-07-04,Line-B,Shift-1,Dimensional out-of-spec,3
-2026-07-04,Line-B,Shift-1,Handling damage,1
-2026-07-04,Line-B,Shift-1,Missing component,6
-2026-07-04,Line-B,Shift-2,Handling damage,1
-2026-07-04,Line-B,Shift-2,Handling damage,30
-2026-07-04,Line-B,Shift-3,Assembly misalignment,2
-2026-07-04,Line-B,Shift-3,Assembly misalignment,9
-2026-07-04,Line-B,Shift-3,Missing component,11
-2026-07-04,Line-C,Shift-1,Surface defect,6
-2026-07-04,Line-C,Shift-1,Missing component,3
-2026-07-04,Line-C,Shift-1,Handling damage,5
-2026-07-04,Line-C,Shift-2,Dimensional out-of-spec,19
-2026-07-04,Line-C,Shift-3,Surface defect,21
-2026-07-05,Line-A,Shift-1,Dimensional out-of-spec,3
-2026-07-05,Line-A,Shift-1,Missing component,1
-2026-07-05,Line-A,Shift-1,Surface defect,3
-2026-07-05,Line-A,Shift-2,Missing component,6
-2026-07-05,Line-A,Shift-3,Missing component,9
-2026-07-05,Line-A,Shift-3,Surface defect,12
-2026-07-05,Line-B,Shift-1,Missing component,8
-2026-07-05,Line-B,Shift-2,Missing component,5
-2026-07-05,Line-B,Shift-2,Missing component,20
-2026-07-05,Line-B,Shift-3,Surface defect,4
-2026-07-05,Line-B,Shift-3,Missing component,7
-2026-07-05,Line-C,Shift-1,Missing component,7
-2026-07-05,Line-C,Shift-2,Dimensional out-of-spec,2
-2026-07-05,Line-C,Shift-2,Dimensional out-of-spec,12
-2026-07-05,Line-C,Shift-3,Missing component,7
-2026-07-06,Line-A,Shift-1,Handling damage,2
-2026-07-06,Line-A,Shift-1,Dimensional out-of-spec,14
-2026-07-06,Line-A,Shift-2,Handling damage,2
-2026-07-06,Line-A,Shift-2,Dimensional out-of-spec,7
-2026-07-06,Line-A,Shift-2,Assembly misalignment,7
-2026-07-06,Line-A,Shift-3,Missing component,1
-2026-07-06,Line-A,Shift-3,Assembly misalignment,14
-2026-07-06,Line-B,Shift-1,Surface defect,4
-2026-07-06,Line-B,Shift-1,Missing component,10
-2026-07-06,Line-B,Shift-2,Assembly misalignment,10
-2026-07-06,Line-B,Shift-2,Handling damage,17
-2026-07-06,Line-B,Shift-3,Assembly misalignment,4
-2026-07-06,Line-B,Shift-3,Missing component,6
-2026-07-06,Line-B,Shift-3,Handling damage,12
-2026-07-06,Line-C,Shift-1,Dimensional out-of-spec,15
-2026-07-06,Line-C,Shift-2,Dimensional out-of-spec,3
-2026-07-06,Line-C,Shift-2,Assembly misalignment,1
-2026-07-06,Line-C,Shift-2,Surface defect,4
-2026-07-06,Line-C,Shift-3,Surface defect,5
-2026-07-06,Line-C,Shift-3,Missing component,6
-2026-07-06,Line-C,Shift-3,Dimensional out-of-spec,9
-2026-07-07,Line-A,Shift-1,Surface defect,1
-2026-07-07,Line-A,Shift-1,Handling damage,1
-2026-07-07,Line-A,Shift-1,Assembly misalignment,2
-2026-07-07,Line-A,Shift-2,Handling damage,5
-2026-07-07,Line-A,Shift-2,Missing component,16
-2026-07-07,Line-A,Shift-3,Surface defect,13
-2026-07-07,Line-B,Shift-1,Surface defect,16
-2026-07-07,Line-B,Shift-2,Assembly misalignment,50
-2026-07-07,Line-B,Shift-3,Missing component,15
-2026-07-07,Line-C,Shift-1,Dimensional out-of-spec,10
-2026-07-07,Line-C,Shift-1,Surface defect,13
-2026-07-07,Line-C,Shift-2,Surface defect,1
-2026-07-07,Line-C,Shift-2,Missing component,2
-2026-07-07,Line-C,Shift-2,Missing component,4
-2026-07-07,Line-C,Shift-3,Missing component,4
-2026-07-07,Line-C,Shift-3,Surface defect,1
-2026-07-07,Line-C,Shift-3,Handling damage,4
-2026-07-08,Line-A,Shift-1,Missing component,8
-2026-07-08,Line-A,Shift-1,Dimensional out-of-spec,12
-2026-07-08,Line-A,Shift-2,Missing component,2
-2026-07-08,Line-A,Shift-2,Handling damage,3
-2026-07-08,Line-A,Shift-2,Assembly misalignment,8
-2026-07-08,Line-A,Shift-3,Dimensional out-of-spec,2
-2026-07-08,Line-A,Shift-3,Missing component,2
-2026-07-08,Line-A,Shift-3,Assembly misalignment,5
-2026-07-08,Line-B,Shift-1,Missing component,13
-2026-07-08,Line-B,Shift-1,Surface defect,6
-2026-07-08,Line-B,Shift-1,Surface defect,16
-2026-07-08,Line-B,Shift-2,Handling damage,28
-2026-07-08,Line-B,Shift-3,Missing component,17
-2026-07-08,Line-C,Shift-1,Handling damage,7
-2026-07-08,Line-C,Shift-1,Assembly misalignment,2
-2026-07-08,Line-C,Shift-1,Missing component,5
-2026-07-08,Line-C,Shift-2,Dimensional out-of-spec,10
-2026-07-08,Line-C,Shift-3,Assembly misalignment,27
-2026-07-09,Line-A,Shift-1,Handling damage,7
-2026-07-09,Line-A,Shift-1,Surface defect,6
-2026-07-09,Line-A,Shift-1,Missing component,6
-2026-07-09,Line-A,Shift-2,Dimensional out-of-spec,2
-2026-07-09,Line-A,Shift-2,Assembly misalignment,4
-2026-07-09,Line-A,Shift-2,Handling damage,4
-2026-07-09,Line-A,Shift-3,Dimensional out-of-spec,5
-2026-07-09,Line-A,Shift-3,Assembly misalignment,7
-2026-07-09,Line-A,Shift-3,Dimensional out-of-spec,10
-2026-07-09,Line-B,Shift-1,Handling damage,4
-2026-07-09,Line-B,Shift-1,Surface defect,5
-2026-07-09,Line-B,Shift-1,Dimensional out-of-spec,15
-2026-07-09,Line-B,Shift-2,Handling damage,9
-2026-07-09,Line-B,Shift-2,Assembly misalignment,13
-2026-07-09,Line-B,Shift-3,Surface defect,28
-2026-07-09,Line-C,Shift-1,Dimensional out-of-spec,2
-2026-07-09,Line-C,Shift-1,Missing component,1
-2026-07-09,Line-C,Shift-1,Dimensional out-of-spec,3
-2026-07-09,Line-C,Shift-2,Assembly misalignment,21
-2026-07-09,Line-C,Shift-3,Dimensional out-of-spec,3
-2026-07-09,Line-C,Shift-3,Assembly misalignment,11
-2026-07-10,Line-A,Shift-1,Missing component,1
-2026-07-10,Line-A,Shift-1,Assembly misalignment,6
-2026-07-10,Line-A,Shift-2,Surface defect,2
-2026-07-10,Line-A,Shift-2,Handling damage,6
-2026-07-10,Line-A,Shift-3,Assembly misalignment,1
-2026-07-10,Line-A,Shift-3,Surface defect,3
-2026-07-10,Line-A,Shift-3,Handling damage,19
-2026-07-10,Line-B,Shift-1,Surface defect,1
-2026-07-10,Line-B,Shift-1,Missing component,10
-2026-07-10,Line-B,Shift-2,Handling damage,8
-2026-07-10,Line-B,Shift-2,Handling damage,1
-2026-07-10,Line-B,Shift-2,Assembly misalignment,30
-2026-07-10,Line-B,Shift-3,Surface defect,22
-2026-07-10,Line-C,Shift-1,Handling damage,2
-2026-07-10,Line-C,Shift-1,Surface defect,6
-2026-07-10,Line-C,Shift-1,Missing component,8
-2026-07-10,Line-C,Shift-2,Missing component,25
-2026-07-10,Line-C,Shift-3,Surface defect,2
-2026-07-10,Line-C,Shift-3,Handling damage,1
-2026-07-10,Line-C,Shift-3,Handling damage,4
-2026-07-11,Line-A,Shift-1,Assembly misalignment,1
-2026-07-11,Line-A,Shift-1,Assembly misalignment,10
-2026-07-11,Line-A,Shift-1,Assembly misalignment,10
-2026-07-11,Line-A,Shift-2,Dimensional out-of-spec,3
-2026-07-11,Line-A,Shift-2,Handling damage,3
-2026-07-11,Line-A,Shift-2,Surface defect,8
-2026-07-11,Line-A,Shift-3,Handling damage,6
-2026-07-11,Line-B,Shift-1,Surface defect,9
-2026-07-11,Line-B,Shift-1,Missing component,4
-2026-07-11,Line-B,Shift-1,Missing component,9
-2026-07-11,Line-B,Shift-2,Handling damage,32
-2026-07-11,Line-B,Shift-3,Assembly misalignment,2
-2026-07-11,Line-B,Shift-3,Handling damage,19
-2026-07-11,Line-C,Shift-1,Dimensional out-of-spec,1
-2026-07-11,Line-C,Shift-1,Missing component,2
-2026-07-11,Line-C,Shift-2,Missing component,2
-2026-07-11,Line-C,Shift-2,Dimensional out-of-spec,14
-2026-07-11,Line-C,Shift-3,Handling damage,3
-2026-07-11,Line-C,Shift-3,Missing component,13
-2026-07-12,Line-A,Shift-1,Assembly misalignment,1
-2026-07-12,Line-A,Shift-1,Surface defect,6
-2026-07-12,Line-A,Shift-2,Surface defect,4
-2026-07-12,Line-A,Shift-2,Handling damage,12
-2026-07-12,Line-A,Shift-3,Assembly misalignment,6
-2026-07-12,Line-A,Shift-3,Missing component,3
-2026-07-12,Line-A,Shift-3,Dimensional out-of-spec,16
-2026-07-12,Line-B,Shift-1,Dimensional out-of-spec,4
-2026-07-12,Line-B,Shift-1,Dimensional out-of-spec,7
-2026-07-12,Line-B,Shift-2,Handling damage,16
-2026-07-12,Line-B,Shift-2,Dimensional out-of-spec,3
-2026-07-12,Line-B,Shift-2,Missing component,18
-2026-07-12,Line-B,Shift-3,Missing component,2
-2026-07-12,Line-B,Shift-3,Assembly misalignment,2
-2026-07-12,Line-C,Shift-1,Handling damage,5
-2026-07-12,Line-C,Shift-2,Assembly misalignment,2
-2026-07-12,Line-C,Shift-2,Handling damage,1
-2026-07-12,Line-C,Shift-2,Dimensional out-of-spec,4
-2026-07-12,Line-C,Shift-3,Surface defect,8
-2026-07-13,Line-A,Shift-1,Surface defect,10
-2026-07-13,Line-A,Shift-1,Handling damage,11
-2026-07-13,Line-A,Shift-2,Missing component,4
-2026-07-13,Line-A,Shift-2,Handling damage,17
-2026-07-13,Line-A,Shift-3,Assembly misalignment,8
-2026-07-13,Line-A,Shift-3,Missing component,13
-2026-07-13,Line-B,Shift-1,Handling damage,6
-2026-07-13,Line-B,Shift-1,Dimensional out-of-spec,20
-2026-07-13,Line-B,Shift-2,Dimensional out-of-spec,6
-2026-07-13,Line-B,Shift-2,Missing component,23
-2026-07-13,Line-B,Shift-3,Dimensional out-of-spec,8
-2026-07-13,Line-C,Shift-1,Handling damage,4
-2026-07-13,Line-C,Shift-1,Dimensional out-of-spec,5
-2026-07-13,Line-C,Shift-2,Handling damage,11
-2026-07-13,Line-C,Shift-2,Missing component,18
-2026-07-13,Line-C,Shift-3,Handling damage,1
-2026-07-13,Line-C,Shift-3,Assembly misalignment,21
-2026-07-14,Line-A,Shift-1,Missing component,1
-2026-07-14,Line-A,Shift-1,Missing component,7
-2026-07-14,Line-A,Shift-1,Dimensional out-of-spec,8
-2026-07-14,Line-A,Shift-2,Surface defect,3
-2026-07-14,Line-A,Shift-2,Assembly misalignment,1
-2026-07-14,Line-A,Shift-2,Handling damage,8
-2026-07-14,Line-A,Shift-3,Dimensional out-of-spec,4
-2026-07-14,Line-A,Shift-3,Surface defect,20
-2026-07-14,Line-B,Shift-1,Assembly misalignment,17
-2026-07-14,Line-B,Shift-2,Dimensional out-of-spec,9
-2026-07-14,Line-B,Shift-2,Missing component,12
-2026-07-14,Line-B,Shift-2,Dimensional out-of-spec,14
-2026-07-14,Line-B,Shift-3,Assembly misalignment,8
-2026-07-14,Line-B,Shift-3,Dimensional out-of-spec,4
-2026-07-14,Line-B,Shift-3,Assembly misalignment,8
-2026-07-14,Line-C,Shift-1,Missing component,11
-2026-07-14,Line-C,Shift-1,Handling damage,3
-2026-07-14,Line-C,Shift-1,Surface defect,9
-2026-07-14,Line-C,Shift-2,Handling damage,2
-2026-07-14,Line-C,Shift-2,Dimensional out-of-spec,5
-2026-07-14,Line-C,Shift-3,Handling damage,12
-2026-07-15,Line-A,Shift-1,Assembly misalignment,1
-2026-07-15,Line-A,Shift-1,Missing component,1
-2026-07-15,Line-A,Shift-1,Surface defect,2
-2026-07-15,Line-A,Shift-2,Missing component,5
-2026-07-15,Line-A,Shift-3,Assembly misalignment,11
-2026-07-15,Line-B,Shift-1,Missing component,12
-2026-07-15,Line-B,Shift-1,Surface defect,9
-2026-07-15,Line-B,Shift-1,Handling damage,12
-2026-07-15,Line-B,Shift-2,Dimensional out-of-spec,21
-2026-07-15,Line-B,Shift-2,Missing component,23
-2026-07-15,Line-B,Shift-3,Dimensional out-of-spec,1
-2026-07-15,Line-B,Shift-3,Surface defect,5
-2026-07-15,Line-B,Shift-3,Assembly misalignment,10
-2026-07-15,Line-C,Shift-1,Assembly misalignment,3
-2026-07-15,Line-C,Shift-1,Handling damage,26
-2026-07-15,Line-C,Shift-2,Dimensional out-of-spec,18
-2026-07-15,Line-C,Shift-3,Assembly misalignment,7
-2026-07-15,Line-C,Shift-3,Dimensional out-of-spec,4
-2026-07-15,Line-C,Shift-3,Dimensional out-of-spec,8
-2026-07-16,Line-A,Shift-1,Assembly misalignment,2
-2026-07-16,Line-A,Shift-1,Handling damage,11
-2026-07-16,Line-A,Shift-2,Missing component,3
-2026-07-16,Line-A,Shift-2,Surface defect,4
-2026-07-16,Line-A,Shift-3,Missing component,8
-2026-07-16,Line-A,Shift-3,Missing component,3
-2026-07-16,Line-A,Shift-3,Dimensional out-of-spec,11
-2026-07-16,Line-B,Shift-1,Assembly misalignment,10
-2026-07-16,Line-B,Shift-2,Dimensional out-of-spec,3
-2026-07-16,Line-B,Shift-2,Missing component,7
-2026-07-16,Line-B,Shift-3,Missing component,16
-2026-07-16,Line-C,Shift-1,Dimensional out-of-spec,5
-2026-07-16,Line-C,Shift-1,Dimensional out-of-spec,7
-2026-07-16,Line-C,Shift-2,Missing component,8
-2026-07-16,Line-C,Shift-3,Missing component,5
-2026-07-16,Line-C,Shift-3,Dimensional out-of-spec,12
-2026-07-17,Line-A,Shift-1,Handling damage,5
-2026-07-17,Line-A,Shift-1,Handling damage,19
-2026-07-17,Line-A,Shift-2,Missing component,5
-2026-07-17,Line-A,Shift-2,Surface defect,1
-2026-07-17,Line-A,Shift-2,Dimensional out-of-spec,5
-2026-07-17,Line-A,Shift-3,Handling damage,4
-2026-07-17,Line-A,Shift-3,Missing component,3
-2026-07-17,Line-A,Shift-3,Handling damage,12
-2026-07-17,Line-B,Shift-1,Surface defect,16
-2026-07-17,Line-B,Shift-2,Missing component,9
-2026-07-17,Line-B,Shift-2,Assembly misalignment,4
-2026-07-17,Line-B,Shift-2,Surface defect,5
-2026-07-17,Line-B,Shift-3,Surface defect,20
-2026-07-17,Line-C,Shift-1,Missing component,9
-2026-07-17,Line-C,Shift-2,Missing component,15
-2026-07-17,Line-C,Shift-3,Handling damage,2
-2026-07-17,Line-C,Shift-3,Dimensional out-of-spec,3
-2026-07-17,Line-C,Shift-3,Surface defect,4
-2026-07-18,Line-A,Shift-1,Dimensional out-of-spec,3
-2026-07-18,Line-A,Shift-1,Assembly misalignment,1
-2026-07-18,Line-A,Shift-1,Missing component,2
-2026-07-18,Line-A,Shift-2,Surface defect,3
-2026-07-18,Line-A,Shift-2,Dimensional out-of-spec,3
-2026-07-18,Line-A,Shift-3,Missing component,2
-2026-07-18,Line-A,Shift-3,Dimensional out-of-spec,20
-2026-07-18,Line-B,Shift-1,Assembly misalignment,3
-2026-07-18,Line-B,Shift-1,Assembly misalignment,10
-2026-07-18,Line-B,Shift-2,Missing component,3
-2026-07-18,Line-B,Shift-2,Handling damage,25
-2026-07-18,Line-B,Shift-3,Assembly misalignment,5
-2026-07-18,Line-B,Shift-3,Handling damage,2
-2026-07-18,Line-B,Shift-3,Missing component,4
-2026-07-18,Line-C,Shift-1,Handling damage,23
-2026-07-18,Line-C,Shift-2,Dimensional out-of-spec,4
-2026-07-18,Line-C,Shift-2,Handling damage,2
-2026-07-18,Line-C,Shift-2,Missing component,7
-2026-07-18,Line-C,Shift-3,Missing component,1
-2026-07-18,Line-C,Shift-3,Dimensional out-of-spec,3
-2026-07-18,Line-C,Shift-3,Surface defect,9
-2026-07-19,Line-A,Shift-1,Assembly misalignment,7
-2026-07-19,Line-A,Shift-2,Surface defect,9
-2026-07-19,Line-A,Shift-2,Dimensional out-of-spec,6
-2026-07-19,Line-A,Shift-2,Surface defect,10
-2026-07-19,Line-A,Shift-3,Surface defect,1
-2026-07-19,Line-A,Shift-3,Missing component,3
-2026-07-19,Line-B,Shift-1,Handling damage,7
-2026-07-19,Line-B,Shift-1,Surface defect,1
-2026-07-19,Line-B,Shift-1,Surface defect,20
-2026-07-19,Line-B,Shift-2,Handling damage,8
-2026-07-19,Line-B,Shift-2,Surface defect,38
-2026-07-19,Line-B,Shift-3,Handling damage,12
-2026-07-19,Line-C,Shift-1,Assembly misalignment,23
-2026-07-19,Line-C,Shift-2,Surface defect,13
-2026-07-19,Line-C,Shift-3,Assembly misalignment,29
-2026-07-20,Line-A,Shift-1,Dimensional out-of-spec,1
-2026-07-20,Line-A,Shift-1,Missing component,2
-2026-07-20,Line-A,Shift-1,Handling damage,3
-2026-07-20,Line-A,Shift-2,Missing component,21
-2026-07-20,Line-A,Shift-3,Assembly misalignment,3
-2026-07-20,Line-A,Shift-3,Assembly misalignment,6
-2026-07-20,Line-B,Shift-1,Handling damage,17
-2026-07-20,Line-B,Shift-2,Missing component,27
-2026-07-20,Line-B,Shift-3,Handling damage,3
-2026-07-20,Line-B,Shift-3,Dimensional out-of-spec,19
-2026-07-20,Line-C,Shift-1,Surface defect,28
-2026-07-20,Line-C,Shift-2,Handling damage,18
-2026-07-20,Line-C,Shift-3,Handling damage,19
-2026-07-21,Line-A,Shift-1,Dimensional out-of-spec,12
-2026-07-21,Line-A,Shift-2,Surface defect,13
-2026-07-21,Line-A,Shift-3,Surface defect,21
-2026-07-21,Line-B,Shift-1,Missing component,3
-2026-07-21,Line-B,Shift-1,Assembly misalignment,2
-2026-07-21,Line-B,Shift-1,Surface defect,17
-2026-07-21,Line-B,Shift-2,Dimensional out-of-spec,6
-2026-07-21,Line-B,Shift-2,Missing component,2
-2026-07-21,Line-B,Shift-2,Surface defect,23
-2026-07-21,Line-B,Shift-3,Missing component,9
-2026-07-21,Line-B,Shift-3,Missing component,10
-2026-07-21,Line-C,Shift-1,Missing component,17
-2026-07-21,Line-C,Shift-2,Assembly misalignment,2
-2026-07-21,Line-C,Shift-2,Dimensional out-of-spec,3
-2026-07-21,Line-C,Shift-3,Handling damage,2
-2026-07-21,Line-C,Shift-3,Handling damage,14
-2026-07-22,Line-A,Shift-1,Handling damage,2
-2026-07-22,Line-A,Shift-1,Surface defect,3
-2026-07-22,Line-A,Shift-1,Missing component,4
-2026-07-22,Line-A,Shift-2,Missing component,2
-2026-07-22,Line-A,Shift-2,Handling damage,6
-2026-07-22,Line-A,Shift-3,Assembly misalignment,2
-2026-07-22,Line-A,Shift-3,Handling damage,2
-2026-07-22,Line-A,Shift-3,Surface defect,4
-2026-07-22,Line-B,Shift-1,Handling damage,19
-2026-07-22,Line-B,Shift-2,Assembly misalignment,5
-2026-07-22,Line-B,Shift-2,Surface defect,32
-2026-07-22,Line-B,Shift-3,Dimensional out-of-spec,10
-2026-07-22,Line-B,Shift-3,Surface defect,2
-2026-07-22,Line-B,Shift-3,Assembly misalignment,15
-2026-07-22,Line-C,Shift-1,Assembly misalignment,7
-2026-07-22,Line-C,Shift-1,Dimensional out-of-spec,7
-2026-07-22,Line-C,Shift-1,Dimensional out-of-spec,12
-2026-07-22,Line-C,Shift-2,Surface defect,9
-2026-07-22,Line-C,Shift-2,Assembly misalignment,10
-2026-07-22,Line-C,Shift-3,Assembly misalignment,2
-2026-07-22,Line-C,Shift-3,Assembly misalignment,2
-2026-07-22,Line-C,Shift-3,Missing component,5
-2026-07-23,Line-A,Shift-1,Dimensional out-of-spec,13
-2026-07-23,Line-A,Shift-2,Assembly misalignment,3
-2026-07-23,Line-A,Shift-2,Missing component,7
-2026-07-23,Line-A,Shift-2,Surface defect,9
-2026-07-23,Line-A,Shift-3,Surface defect,1
-2026-07-23,Line-A,Shift-3,Surface defect,21
-2026-07-23,Line-B,Shift-1,Assembly misalignment,2
-2026-07-23,Line-B,Shift-1,Missing component,24
-2026-07-23,Line-B,Shift-2,Surface defect,4
-2026-07-23,Line-B,Shift-2,Assembly misalignment,28
-2026-07-23,Line-B,Shift-3,Handling damage,2
-2026-07-23,Line-B,Shift-3,Surface defect,6
-2026-07-23,Line-C,Shift-1,Missing component,2
-2026-07-23,Line-C,Shift-1,Missing component,1
-2026-07-23,Line-C,Shift-1,Missing component,1
-2026-07-23,Line-C,Shift-2,Handling damage,4
-2026-07-23,Line-C,Shift-3,Assembly misalignment,18
-2026-07-24,Line-A,Shift-1,Assembly misalignment,4
-2026-07-24,Line-A,Shift-1,Missing component,1
-2026-07-24,Line-A,Shift-1,Assembly misalignment,15
-2026-07-24,Line-A,Shift-2,Assembly misalignment,5
-2026-07-24,Line-A,Shift-2,Surface defect,4
-2026-07-24,Line-A,Shift-2,Handling damage,4
-2026-07-24,Line-A,Shift-3,Assembly misalignment,5
-2026-07-24,Line-A,Shift-3,Assembly misalignment,10
-2026-07-24,Line-A,Shift-3,Handling damage,10
-2026-07-24,Line-B,Shift-1,Surface defect,6
-2026-07-24,Line-B,Shift-1,Missing component,11
-2026-07-24,Line-B,Shift-1,Missing component,13
-2026-07-24,Line-B,Shift-2,Assembly misalignment,5
-2026-07-24,Line-B,Shift-2,Missing component,8
-2026-07-24,Line-B,Shift-2,Assembly misalignment,8
-2026-07-24,Line-B,Shift-3,Missing component,4
-2026-07-24,Line-B,Shift-3,Surface defect,12
-2026-07-24,Line-C,Shift-1,Dimensional out-of-spec,1
-2026-07-24,Line-C,Shift-1,Missing component,1
-2026-07-24,Line-C,Shift-1,Dimensional out-of-spec,8
-2026-07-24,Line-C,Shift-2,Assembly misalignment,10
-2026-07-24,Line-C,Shift-3,Surface defect,12
-2026-07-24,Line-C,Shift-3,Missing component,18
-2026-07-25,Line-A,Shift-1,Missing component,9
-2026-07-25,Line-A,Shift-2,Assembly misalignment,6
-2026-07-25,Line-A,Shift-2,Surface defect,16
-2026-07-25,Line-A,Shift-3,Surface defect,18
-2026-07-25,Line-B,Shift-1,Handling damage,6
-2026-07-25,Line-B,Shift-2,Handling damage,15
-2026-07-25,Line-B,Shift-3,Missing component,4
-2026-07-25,Line-C,Shift-1,Dimensional out-of-spec,2
-2026-07-25,Line-C,Shift-1,Surface defect,5
-2026-07-25,Line-C,Shift-1,Dimensional out-of-spec,16
-2026-07-25,Line-C,Shift-2,Handling damage,2
-2026-07-25,Line-C,Shift-2,Surface defect,14
-2026-07-25,Line-C,Shift-3,Surface defect,7
-2026-07-25,Line-C,Shift-3,Surface defect,1
-2026-07-25,Line-C,Shift-3,Dimensional out-of-spec,14
-2026-07-26,Line-A,Shift-1,Dimensional out-of-spec,3
-2026-07-26,Line-A,Shift-1,Missing component,3
-2026-07-26,Line-A,Shift-1,Assembly misalignment,15
-2026-07-26,Line-A,Shift-2,Missing component,13
-2026-07-26,Line-A,Shift-2,Assembly misalignment,14
-2026-07-26,Line-A,Shift-3,Dimensional out-of-spec,6
-2026-07-26,Line-A,Shift-3,Missing component,10
-2026-07-26,Line-B,Shift-1,Dimensional out-of-spec,9
-2026-07-26,Line-B,Shift-1,Dimensional out-of-spec,1
-2026-07-26,Line-B,Shift-1,Surface defect,10
-2026-07-26,Line-B,Shift-2,Missing component,12
-2026-07-26,Line-B,Shift-2,Assembly misalignment,2
-2026-07-26,Line-B,Shift-2,Surface defect,12
-2026-07-26,Line-B,Shift-3,Handling damage,15
-2026-07-26,Line-C,Shift-1,Assembly misalignment,11
-2026-07-26,Line-C,Shift-2,Surface defect,15
-2026-07-26,Line-C,Shift-3,Missing component,5
-2026-07-27,Line-A,Shift-1,Dimensional out-of-spec,2
-2026-07-27,Line-A,Shift-1,Handling damage,3
-2026-07-27,Line-A,Shift-2,Surface defect,2
-2026-07-27,Line-A,Shift-2,Assembly misalignment,3
-2026-07-27,Line-A,Shift-2,Assembly misalignment,10
-2026-07-27,Line-A,Shift-3,Surface defect,7
-2026-07-27,Line-B,Shift-1,Dimensional out-of-spec,1
-2026-07-27,Line-B,Shift-1,Surface defect,4
-2026-07-27,Line-B,Shift-2,Handling damage,15
-2026-07-27,Line-B,Shift-2,Handling damage,26
-2026-07-27,Line-B,Shift-3,Surface defect,25
-2026-07-27,Line-C,Shift-1,Surface defect,8
-2026-07-27,Line-C,Shift-1,Assembly misalignment,1
-2026-07-27,Line-C,Shift-1,Dimensional out-of-spec,7
-2026-07-27,Line-C,Shift-2,Assembly misalignment,3
-2026-07-27,Line-C,Shift-2,Surface defect,15
-2026-07-27,Line-C,Shift-3,Dimensional out-of-spec,8
-2026-07-27,Line-C,Shift-3,Dimensional out-of-spec,8
-2026-07-28,Line-A,Shift-1,Missing component,2
-2026-07-28,Line-A,Shift-1,Handling damage,3
-2026-07-28,Line-A,Shift-2,Assembly misalignment,3
-2026-07-28,Line-A,Shift-2,Handling damage,4
-2026-07-28,Line-A,Shift-3,Surface defect,6
-2026-07-28,Line-A,Shift-3,Surface defect,14
-2026-07-28,Line-B,Shift-1,Surface defect,2
-2026-07-28,Line-B,Shift-1,Missing component,2
-2026-07-28,Line-B,Shift-2,Assembly misalignment,30
-2026-07-28,Line-B,Shift-3,Assembly misalignment,1
-2026-07-28,Line-B,Shift-3,Assembly misalignment,2
-2026-07-28,Line-B,Shift-3,Surface defect,4
-2026-07-28,Line-C,Shift-1,Handling damage,4
-2026-07-28,Line-C,Shift-1,Surface defect,18
-2026-07-28,Line-C,Shift-2,Missing component,3
-2026-07-28,Line-C,Shift-3,Missing component,3
-2026-07-28,Line-C,Shift-3,Assembly misalignment,1
-2026-07-28,Line-C,Shift-3,Surface defect,6
-2026-07-29,Line-A,Shift-1,Dimensional out-of-spec,2
-2026-07-29,Line-A,Shift-1,Handling damage,2
-2026-07-29,Line-A,Shift-1,Surface defect,3
-2026-07-29,Line-A,Shift-2,Missing component,3
-2026-07-29,Line-A,Shift-2,Surface defect,13
-2026-07-29,Line-A,Shift-3,Surface defect,4
-2026-07-29,Line-A,Shift-3,Missing component,26
-2026-07-29,Line-B,Shift-1,Missing component,5
-2026-07-29,Line-B,Shift-2,Assembly misalignment,4
-2026-07-29,Line-B,Shift-2,Dimensional out-of-spec,10
-2026-07-29,Line-B,Shift-3,Assembly misalignment,4
-2026-07-29,Line-B,Shift-3,Surface defect,11
-2026-07-29,Line-C,Shift-1,Missing component,9
-2026-07-29,Line-C,Shift-1,Handling damage,11
-2026-07-29,Line-C,Shift-2,Handling damage,5
-2026-07-29,Line-C,Shift-2,Dimensional out-of-spec,1
-2026-07-29,Line-C,Shift-2,Missing component,4
-2026-07-29,Line-C,Shift-3,Dimensional out-of-spec,12
-2026-07-30,Line-A,Shift-1,Surface defect,21
-2026-07-30,Line-A,Shift-2,Dimensional out-of-spec,8
-2026-07-30,Line-A,Shift-2,Assembly misalignment,2
-2026-07-30,Line-A,Shift-2,Missing component,9
-2026-07-30,Line-A,Shift-3,Assembly misalignment,18
-2026-07-30,Line-B,Shift-1,Assembly misalignment,2
-2026-07-30,Line-B,Shift-1,Missing component,4
-2026-07-30,Line-B,Shift-2,Surface defect,13
-2026-07-30,Line-B,Shift-2,Handling damage,9
-2026-07-30,Line-B,Shift-2,Dimensional out-of-spec,16
-2026-07-30,Line-B,Shift-3,Assembly misalignment,1
-2026-07-30,Line-B,Shift-3,Missing component,1
-2026-07-30,Line-B,Shift-3,Handling damage,2
-2026-07-30,Line-C,Shift-1,Assembly misalignment,2
-2026-07-30,Line-C,Shift-1,Dimensional out-of-spec,10
-2026-07-30,Line-C,Shift-2,Assembly misalignment,34
-2026-07-30,Line-C,Shift-3,Surface defect,35
+date,line,shift,product,reason,quantity
+2026-07-01,Line-A,Shift-1,Housing,Handling damage,5
+2026-07-01,Line-A,Shift-1,Housing,Missing component,1
+2026-07-01,Line-A,Shift-1,Housing,Dimensional out-of-spec,1
+2026-07-01,Line-A,Shift-2,Bracket,Handling damage,11
+2026-07-01,Line-A,Shift-3,Sensor Mount,Assembly misalignment,2
+2026-07-01,Line-A,Shift-3,Sensor Mount,Surface defect,2
+2026-07-01,Line-A,Shift-3,Sensor Mount,Surface defect,1
+2026-07-01,Line-B,Shift-1,Bracket,Assembly misalignment,5
+2026-07-01,Line-B,Shift-1,Bracket,Dimensional out-of-spec,1
+2026-07-01,Line-B,Shift-2,Connector,Dimensional out-of-spec,8
+2026-07-01,Line-B,Shift-2,Connector,Surface defect,10
+2026-07-01,Line-B,Shift-2,Connector,Dimensional out-of-spec,10
+2026-07-01,Line-B,Shift-3,Connector,Handling damage,16
+2026-07-01,Line-C,Shift-1,Sensor Mount,Dimensional out-of-spec,4
+2026-07-01,Line-C,Shift-2,Connector,Assembly misalignment,3
+2026-07-01,Line-C,Shift-2,Connector,Surface defect,7
+2026-07-01,Line-C,Shift-3,Housing,Dimensional out-of-spec,7
+2026-07-02,Line-A,Shift-1,Bracket,Handling damage,1
+2026-07-02,Line-A,Shift-1,Bracket,Assembly misalignment,1
+2026-07-02,Line-A,Shift-1,Bracket,Assembly misalignment,4
+2026-07-02,Line-A,Shift-2,Sensor Mount,Handling damage,6
+2026-07-02,Line-A,Shift-2,Sensor Mount,Handling damage,1
+2026-07-02,Line-A,Shift-3,Connector,Dimensional out-of-spec,8
+2026-07-02,Line-A,Shift-3,Connector,Dimensional out-of-spec,4
+2026-07-02,Line-B,Shift-1,Sensor Mount,Missing component,9
+2026-07-02,Line-B,Shift-2,Sensor Mount,Assembly misalignment,4
+2026-07-02,Line-B,Shift-2,Sensor Mount,Missing component,6
+2026-07-02,Line-B,Shift-2,Sensor Mount,Assembly misalignment,2
+2026-07-02,Line-B,Shift-3,Housing,Surface defect,2
+2026-07-02,Line-B,Shift-3,Housing,Dimensional out-of-spec,3
+2026-07-02,Line-B,Shift-3,Housing,Dimensional out-of-spec,1
+2026-07-02,Line-C,Shift-1,Connector,Handling damage,2
+2026-07-02,Line-C,Shift-1,Connector,Surface defect,5
+2026-07-02,Line-C,Shift-2,Housing,Dimensional out-of-spec,9
+2026-07-02,Line-C,Shift-3,Bracket,Dimensional out-of-spec,6
+2026-07-02,Line-C,Shift-3,Bracket,Missing component,1
+2026-07-02,Line-C,Shift-3,Bracket,Assembly misalignment,2
+2026-07-03,Line-A,Shift-1,Sensor Mount,Dimensional out-of-spec,3
+2026-07-03,Line-A,Shift-1,Sensor Mount,Dimensional out-of-spec,1
+2026-07-03,Line-A,Shift-2,Connector,Missing component,2
+2026-07-03,Line-A,Shift-2,Connector,Dimensional out-of-spec,5
+2026-07-03,Line-A,Shift-3,Housing,Handling damage,8
+2026-07-03,Line-B,Shift-1,Connector,Handling damage,10
+2026-07-03,Line-B,Shift-2,Connector,Missing component,30
+2026-07-03,Line-B,Shift-3,Bracket,Assembly misalignment,8
+2026-07-03,Line-C,Shift-1,Housing,Dimensional out-of-spec,10
+2026-07-03,Line-C,Shift-1,Housing,Handling damage,1
+2026-07-03,Line-C,Shift-1,Housing,Surface defect,4
+2026-07-03,Line-C,Shift-2,Bracket,Surface defect,5
+2026-07-03,Line-C,Shift-2,Bracket,Missing component,4
+2026-07-03,Line-C,Shift-3,Sensor Mount,Dimensional out-of-spec,3
+2026-07-03,Line-C,Shift-3,Sensor Mount,Surface defect,3
+2026-07-03,Line-C,Shift-3,Sensor Mount,Assembly misalignment,1
+2026-07-04,Line-A,Shift-1,Connector,Missing component,5
+2026-07-04,Line-A,Shift-1,Connector,Assembly misalignment,5
+2026-07-04,Line-A,Shift-1,Connector,Dimensional out-of-spec,3
+2026-07-04,Line-A,Shift-2,Housing,Assembly misalignment,7
+2026-07-04,Line-A,Shift-3,Bracket,Surface defect,14
+2026-07-04,Line-B,Shift-1,Housing,Dimensional out-of-spec,6
+2026-07-04,Line-B,Shift-1,Housing,Assembly misalignment,5
+2026-07-04,Line-B,Shift-2,Sensor Mount,Missing component,15
+2026-07-04,Line-B,Shift-2,Sensor Mount,Surface defect,1
+2026-07-04,Line-B,Shift-2,Sensor Mount,Assembly misalignment,1
+2026-07-04,Line-B,Shift-3,Sensor Mount,Surface defect,6
+2026-07-04,Line-C,Shift-1,Bracket,Missing component,7
+2026-07-04,Line-C,Shift-2,Sensor Mount,Dimensional out-of-spec,12
+2026-07-04,Line-C,Shift-3,Connector,Assembly misalignment,7
+2026-07-04,Line-C,Shift-3,Connector,Missing component,3
+2026-07-04,Line-C,Shift-3,Connector,Handling damage,5
+2026-07-05,Line-A,Shift-1,Housing,Handling damage,1
+2026-07-05,Line-A,Shift-1,Housing,Handling damage,13
+2026-07-05,Line-A,Shift-2,Bracket,Assembly misalignment,6
+2026-07-05,Line-A,Shift-2,Bracket,Dimensional out-of-spec,5
+2026-07-05,Line-A,Shift-2,Bracket,Assembly misalignment,2
+2026-07-05,Line-A,Shift-3,Sensor Mount,Handling damage,2
+2026-07-05,Line-A,Shift-3,Sensor Mount,Handling damage,4
+2026-07-05,Line-B,Shift-1,Bracket,Missing component,4
+2026-07-05,Line-B,Shift-1,Bracket,Missing component,1
+2026-07-05,Line-B,Shift-2,Connector,Surface defect,22
+2026-07-05,Line-B,Shift-2,Connector,Assembly misalignment,2
+2026-07-05,Line-B,Shift-2,Connector,Surface defect,10
+2026-07-05,Line-B,Shift-3,Connector,Missing component,4
+2026-07-05,Line-B,Shift-3,Connector,Missing component,6
+2026-07-05,Line-C,Shift-1,Sensor Mount,Surface defect,8
+2026-07-05,Line-C,Shift-2,Connector,Missing component,12
+2026-07-05,Line-C,Shift-3,Housing,Assembly misalignment,8
+2026-07-05,Line-C,Shift-3,Housing,Surface defect,1
+2026-07-06,Line-A,Shift-1,Bracket,Assembly misalignment,6
+2026-07-06,Line-A,Shift-1,Bracket,Handling damage,8
+2026-07-06,Line-A,Shift-2,Sensor Mount,Handling damage,3
+2026-07-06,Line-A,Shift-2,Sensor Mount,Missing component,3
+2026-07-06,Line-A,Shift-3,Connector,Dimensional out-of-spec,8
+2026-07-06,Line-A,Shift-3,Connector,Assembly misalignment,7
+2026-07-06,Line-B,Shift-1,Sensor Mount,Dimensional out-of-spec,8
+2026-07-06,Line-B,Shift-1,Sensor Mount,Missing component,3
+2026-07-06,Line-B,Shift-2,Sensor Mount,Missing component,15
+2026-07-06,Line-B,Shift-3,Housing,Dimensional out-of-spec,3
+2026-07-06,Line-B,Shift-3,Housing,Missing component,2
+2026-07-06,Line-C,Shift-1,Connector,Dimensional out-of-spec,16
+2026-07-06,Line-C,Shift-2,Housing,Missing component,1
+2026-07-06,Line-C,Shift-2,Housing,Assembly misalignment,1
+2026-07-06,Line-C,Shift-2,Housing,Assembly misalignment,2
+2026-07-06,Line-C,Shift-3,Bracket,Handling damage,2
+2026-07-06,Line-C,Shift-3,Bracket,Dimensional out-of-spec,12
+2026-07-07,Line-A,Shift-1,Sensor Mount,Assembly misalignment,10
+2026-07-07,Line-A,Shift-2,Connector,Assembly misalignment,7
+2026-07-07,Line-A,Shift-2,Connector,Dimensional out-of-spec,3
+2026-07-07,Line-A,Shift-2,Connector,Handling damage,1
+2026-07-07,Line-A,Shift-3,Housing,Handling damage,3
+2026-07-07,Line-A,Shift-3,Housing,Assembly misalignment,6
+2026-07-07,Line-B,Shift-1,Connector,Missing component,16
+2026-07-07,Line-B,Shift-2,Connector,Dimensional out-of-spec,18
+2026-07-07,Line-B,Shift-2,Connector,Handling damage,6
+2026-07-07,Line-B,Shift-3,Bracket,Dimensional out-of-spec,13
+2026-07-07,Line-C,Shift-1,Housing,Assembly misalignment,5
+2026-07-07,Line-C,Shift-1,Housing,Missing component,1
+2026-07-07,Line-C,Shift-1,Housing,Assembly misalignment,1
+2026-07-07,Line-C,Shift-2,Bracket,Missing component,14
+2026-07-07,Line-C,Shift-3,Sensor Mount,Assembly misalignment,9
+2026-07-08,Line-A,Shift-1,Connector,Handling damage,13
+2026-07-08,Line-A,Shift-2,Housing,Dimensional out-of-spec,2
+2026-07-08,Line-A,Shift-2,Housing,Missing component,7
+2026-07-08,Line-A,Shift-3,Bracket,Surface defect,14
+2026-07-08,Line-B,Shift-1,Housing,Assembly misalignment,8
+2026-07-08,Line-B,Shift-1,Housing,Handling damage,3
+2026-07-08,Line-B,Shift-2,Sensor Mount,Dimensional out-of-spec,7
+2026-07-08,Line-B,Shift-2,Sensor Mount,Surface defect,5
+2026-07-08,Line-B,Shift-2,Sensor Mount,Surface defect,7
+2026-07-08,Line-B,Shift-3,Sensor Mount,Surface defect,1
+2026-07-08,Line-B,Shift-3,Sensor Mount,Assembly misalignment,1
+2026-07-08,Line-B,Shift-3,Sensor Mount,Handling damage,1
+2026-07-08,Line-C,Shift-1,Bracket,Dimensional out-of-spec,9
+2026-07-08,Line-C,Shift-2,Sensor Mount,Handling damage,4
+2026-07-08,Line-C,Shift-2,Sensor Mount,Handling damage,2
+2026-07-08,Line-C,Shift-2,Sensor Mount,Missing component,1
+2026-07-08,Line-C,Shift-3,Connector,Handling damage,1
+2026-07-08,Line-C,Shift-3,Connector,Dimensional out-of-spec,9
+2026-07-08,Line-C,Shift-3,Connector,Surface defect,8
+2026-07-09,Line-A,Shift-1,Housing,Missing component,2
+2026-07-09,Line-A,Shift-1,Housing,Assembly misalignment,14
+2026-07-09,Line-A,Shift-2,Bracket,Missing component,3
+2026-07-09,Line-A,Shift-2,Bracket,Handling damage,3
+2026-07-09,Line-A,Shift-3,Sensor Mount,Handling damage,1
+2026-07-09,Line-A,Shift-3,Sensor Mount,Missing component,3
+2026-07-09,Line-A,Shift-3,Sensor Mount,Missing component,1
+2026-07-09,Line-B,Shift-1,Bracket,Missing component,8
+2026-07-09,Line-B,Shift-1,Bracket,Dimensional out-of-spec,4
+2026-07-09,Line-B,Shift-2,Connector,Surface defect,3
+2026-07-09,Line-B,Shift-2,Connector,Dimensional out-of-spec,27
+2026-07-09,Line-B,Shift-3,Connector,Missing component,17
+2026-07-09,Line-C,Shift-1,Sensor Mount,Assembly misalignment,9
+2026-07-09,Line-C,Shift-1,Sensor Mount,Dimensional out-of-spec,1
+2026-07-09,Line-C,Shift-2,Connector,Assembly misalignment,7
+2026-07-09,Line-C,Shift-2,Connector,Surface defect,8
+2026-07-09,Line-C,Shift-2,Connector,Surface defect,2
+2026-07-09,Line-C,Shift-3,Housing,Missing component,8
+2026-07-09,Line-C,Shift-3,Housing,Missing component,3
+2026-07-09,Line-C,Shift-3,Housing,Surface defect,1
+2026-07-10,Line-A,Shift-1,Bracket,Surface defect,1
+2026-07-10,Line-A,Shift-1,Bracket,Missing component,10
+2026-07-10,Line-A,Shift-2,Sensor Mount,Missing component,1
+2026-07-10,Line-A,Shift-2,Sensor Mount,Handling damage,1
+2026-07-10,Line-A,Shift-2,Sensor Mount,Dimensional out-of-spec,1
+2026-07-10,Line-A,Shift-3,Connector,Dimensional out-of-spec,14
+2026-07-10,Line-B,Shift-1,Sensor Mount,Assembly misalignment,11
+2026-07-10,Line-B,Shift-2,Sensor Mount,Surface defect,7
+2026-07-10,Line-B,Shift-2,Sensor Mount,Missing component,5
+2026-07-10,Line-B,Shift-2,Sensor Mount,Handling damage,3
+2026-07-10,Line-B,Shift-3,Housing,Dimensional out-of-spec,7
+2026-07-10,Line-C,Shift-1,Connector,Surface defect,15
+2026-07-10,Line-C,Shift-2,Housing,Handling damage,6
+2026-07-10,Line-C,Shift-2,Housing,Missing component,1
+2026-07-10,Line-C,Shift-2,Housing,Assembly misalignment,1
+2026-07-10,Line-C,Shift-3,Bracket,Surface defect,11
+2026-07-10,Line-C,Shift-3,Bracket,Dimensional out-of-spec,2
+2026-07-11,Line-A,Shift-1,Sensor Mount,Surface defect,4
+2026-07-11,Line-A,Shift-1,Sensor Mount,Surface defect,1
+2026-07-11,Line-A,Shift-2,Connector,Missing component,4
+2026-07-11,Line-A,Shift-2,Connector,Dimensional out-of-spec,15
+2026-07-11,Line-A,Shift-3,Housing,Missing component,14
+2026-07-11,Line-B,Shift-1,Connector,Handling damage,9
+2026-07-11,Line-B,Shift-1,Connector,Surface defect,2
+2026-07-11,Line-B,Shift-1,Connector,Dimensional out-of-spec,1
+2026-07-11,Line-B,Shift-2,Connector,Dimensional out-of-spec,16
+2026-07-11,Line-B,Shift-2,Connector,Dimensional out-of-spec,12
+2026-07-11,Line-B,Shift-3,Bracket,Assembly misalignment,7
+2026-07-11,Line-B,Shift-3,Bracket,Dimensional out-of-spec,3
+2026-07-11,Line-C,Shift-1,Housing,Dimensional out-of-spec,3
+2026-07-11,Line-C,Shift-1,Housing,Missing component,3
+2026-07-11,Line-C,Shift-1,Housing,Assembly misalignment,2
+2026-07-11,Line-C,Shift-2,Bracket,Assembly misalignment,15
+2026-07-11,Line-C,Shift-3,Sensor Mount,Handling damage,7
+2026-07-12,Line-A,Shift-1,Connector,Surface defect,11
+2026-07-12,Line-A,Shift-2,Housing,Assembly misalignment,6
+2026-07-12,Line-A,Shift-3,Bracket,Dimensional out-of-spec,4
+2026-07-12,Line-A,Shift-3,Bracket,Dimensional out-of-spec,3
+2026-07-12,Line-A,Shift-3,Bracket,Missing component,1
+2026-07-12,Line-B,Shift-1,Housing,Dimensional out-of-spec,8
+2026-07-12,Line-B,Shift-1,Housing,Dimensional out-of-spec,3
+2026-07-12,Line-B,Shift-2,Sensor Mount,Handling damage,10
+2026-07-12,Line-B,Shift-2,Sensor Mount,Handling damage,3
+2026-07-12,Line-B,Shift-3,Sensor Mount,Missing component,5
+2026-07-12,Line-B,Shift-3,Sensor Mount,Missing component,1
+2026-07-12,Line-B,Shift-3,Sensor Mount,Surface defect,1
+2026-07-12,Line-C,Shift-1,Bracket,Assembly misalignment,6
+2026-07-12,Line-C,Shift-1,Bracket,Assembly misalignment,4
+2026-07-12,Line-C,Shift-2,Sensor Mount,Missing component,6
+2026-07-12,Line-C,Shift-3,Connector,Handling damage,1
+2026-07-12,Line-C,Shift-3,Connector,Assembly misalignment,5
+2026-07-12,Line-C,Shift-3,Connector,Assembly misalignment,10
+2026-07-13,Line-A,Shift-1,Housing,Surface defect,5
+2026-07-13,Line-A,Shift-1,Housing,Missing component,1
+2026-07-13,Line-A,Shift-2,Bracket,Surface defect,5
+2026-07-13,Line-A,Shift-2,Bracket,Assembly misalignment,1
+2026-07-13,Line-A,Shift-2,Bracket,Assembly misalignment,6
+2026-07-13,Line-A,Shift-3,Sensor Mount,Surface defect,4
+2026-07-13,Line-B,Shift-1,Bracket,Handling damage,10
+2026-07-13,Line-B,Shift-1,Bracket,Dimensional out-of-spec,1
+2026-07-13,Line-B,Shift-2,Connector,Assembly misalignment,25
+2026-07-13,Line-B,Shift-3,Connector,Dimensional out-of-spec,20
+2026-07-13,Line-B,Shift-3,Connector,Dimensional out-of-spec,1
+2026-07-13,Line-C,Shift-1,Sensor Mount,Surface defect,4
+2026-07-13,Line-C,Shift-1,Sensor Mount,Missing component,2
+2026-07-13,Line-C,Shift-1,Sensor Mount,Handling damage,3
+2026-07-13,Line-C,Shift-2,Connector,Dimensional out-of-spec,1
+2026-07-13,Line-C,Shift-2,Connector,Missing component,7
+2026-07-13,Line-C,Shift-2,Connector,Dimensional out-of-spec,7
+2026-07-13,Line-C,Shift-3,Housing,Assembly misalignment,7
+2026-07-13,Line-C,Shift-3,Housing,Dimensional out-of-spec,1
+2026-07-14,Line-A,Shift-1,Bracket,Dimensional out-of-spec,3
+2026-07-14,Line-A,Shift-1,Bracket,Handling damage,7
+2026-07-14,Line-A,Shift-2,Sensor Mount,Assembly misalignment,4
+2026-07-14,Line-A,Shift-3,Connector,Assembly misalignment,8
+2026-07-14,Line-A,Shift-3,Connector,Surface defect,6
+2026-07-14,Line-A,Shift-3,Connector,Missing component,3
+2026-07-14,Line-B,Shift-1,Sensor Mount,Missing component,1
+2026-07-14,Line-B,Shift-1,Sensor Mount,Missing component,3
+2026-07-14,Line-B,Shift-1,Sensor Mount,Dimensional out-of-spec,4
+2026-07-14,Line-B,Shift-2,Sensor Mount,Dimensional out-of-spec,16
+2026-07-14,Line-B,Shift-2,Sensor Mount,Missing component,2
+2026-07-14,Line-B,Shift-2,Sensor Mount,Dimensional out-of-spec,3
+2026-07-14,Line-B,Shift-3,Housing,Handling damage,8
+2026-07-14,Line-B,Shift-3,Housing,Handling damage,7
+2026-07-14,Line-C,Shift-1,Connector,Assembly misalignment,11
+2026-07-14,Line-C,Shift-1,Connector,Assembly misalignment,2
+2026-07-14,Line-C,Shift-1,Connector,Handling damage,2
+2026-07-14,Line-C,Shift-2,Housing,Surface defect,6
+2026-07-14,Line-C,Shift-2,Housing,Handling damage,2
+2026-07-14,Line-C,Shift-2,Housing,Dimensional out-of-spec,1
+2026-07-14,Line-C,Shift-3,Bracket,Assembly misalignment,7
+2026-07-14,Line-C,Shift-3,Bracket,Dimensional out-of-spec,5
+2026-07-14,Line-C,Shift-3,Bracket,Assembly misalignment,1
+2026-07-15,Line-A,Shift-1,Sensor Mount,Handling damage,1
+2026-07-15,Line-A,Shift-1,Sensor Mount,Surface defect,3
+2026-07-15,Line-A,Shift-1,Sensor Mount,Handling damage,2
+2026-07-15,Line-A,Shift-2,Connector,Surface defect,12
+2026-07-15,Line-A,Shift-2,Connector,Missing component,6
+2026-07-15,Line-A,Shift-3,Housing,Assembly misalignment,12
+2026-07-15,Line-B,Shift-1,Connector,Handling damage,12
+2026-07-15,Line-B,Shift-1,Connector,Dimensional out-of-spec,7
+2026-07-15,Line-B,Shift-2,Connector,Dimensional out-of-spec,12
+2026-07-15,Line-B,Shift-2,Connector,Missing component,8
+2026-07-15,Line-B,Shift-3,Bracket,Surface defect,6
+2026-07-15,Line-B,Shift-3,Bracket,Dimensional out-of-spec,3
+2026-07-15,Line-B,Shift-3,Bracket,Assembly misalignment,8
+2026-07-15,Line-C,Shift-1,Housing,Dimensional out-of-spec,9
+2026-07-15,Line-C,Shift-1,Housing,Assembly misalignment,1
+2026-07-15,Line-C,Shift-1,Housing,Surface defect,1
+2026-07-15,Line-C,Shift-2,Bracket,Surface defect,5
+2026-07-15,Line-C,Shift-2,Bracket,Surface defect,3
+2026-07-15,Line-C,Shift-2,Bracket,Assembly misalignment,1
+2026-07-15,Line-C,Shift-3,Sensor Mount,Missing component,1
+2026-07-15,Line-C,Shift-3,Sensor Mount,Dimensional out-of-spec,2
+2026-07-15,Line-C,Shift-3,Sensor Mount,Missing component,1
+2026-07-16,Line-A,Shift-1,Connector,Surface defect,6
+2026-07-16,Line-A,Shift-1,Connector,Dimensional out-of-spec,2
+2026-07-16,Line-A,Shift-1,Connector,Assembly misalignment,1
+2026-07-16,Line-A,Shift-2,Housing,Dimensional out-of-spec,2
+2026-07-16,Line-A,Shift-2,Housing,Surface defect,4
+2026-07-16,Line-A,Shift-3,Bracket,Dimensional out-of-spec,7
+2026-07-16,Line-A,Shift-3,Bracket,Assembly misalignment,1
+2026-07-16,Line-B,Shift-1,Housing,Missing component,5
+2026-07-16,Line-B,Shift-1,Housing,Dimensional out-of-spec,2
+2026-07-16,Line-B,Shift-1,Housing,Missing component,9
+2026-07-16,Line-B,Shift-2,Sensor Mount,Missing component,17
+2026-07-16,Line-B,Shift-3,Sensor Mount,Dimensional out-of-spec,11
+2026-07-16,Line-B,Shift-3,Sensor Mount,Surface defect,1
+2026-07-16,Line-B,Shift-3,Sensor Mount,Handling damage,1
+2026-07-16,Line-C,Shift-1,Bracket,Surface defect,1
+2026-07-16,Line-C,Shift-1,Bracket,Missing component,3
+2026-07-16,Line-C,Shift-1,Bracket,Assembly misalignment,1
+2026-07-16,Line-C,Shift-2,Sensor Mount,Dimensional out-of-spec,7
+2026-07-16,Line-C,Shift-3,Connector,Dimensional out-of-spec,8
+2026-07-16,Line-C,Shift-3,Connector,Surface defect,1
+2026-07-16,Line-C,Shift-3,Connector,Dimensional out-of-spec,1
+2026-07-17,Line-A,Shift-1,Housing,Dimensional out-of-spec,6
+2026-07-17,Line-A,Shift-1,Housing,Handling damage,4
+2026-07-17,Line-A,Shift-2,Bracket,Dimensional out-of-spec,15
+2026-07-17,Line-A,Shift-3,Sensor Mount,Handling damage,4
+2026-07-17,Line-B,Shift-1,Bracket,Missing component,2
+2026-07-17,Line-B,Shift-1,Bracket,Handling damage,8
+2026-07-17,Line-B,Shift-1,Bracket,Assembly misalignment,7
+2026-07-17,Line-B,Shift-2,Connector,Surface defect,5
+2026-07-17,Line-B,Shift-2,Connector,Surface defect,10
+2026-07-17,Line-B,Shift-2,Connector,Assembly misalignment,16
+2026-07-17,Line-B,Shift-3,Connector,Handling damage,20
+2026-07-17,Line-C,Shift-1,Sensor Mount,Surface defect,2
+2026-07-17,Line-C,Shift-1,Sensor Mount,Handling damage,2
+2026-07-17,Line-C,Shift-1,Sensor Mount,Handling damage,3
+2026-07-17,Line-C,Shift-2,Connector,Handling damage,5
+2026-07-17,Line-C,Shift-2,Connector,Missing component,2
+2026-07-17,Line-C,Shift-2,Connector,Handling damage,3
+2026-07-17,Line-C,Shift-3,Housing,Missing component,5
+2026-07-17,Line-C,Shift-3,Housing,Dimensional out-of-spec,4
+2026-07-18,Line-A,Shift-1,Bracket,Surface defect,6
+2026-07-18,Line-A,Shift-1,Bracket,Assembly misalignment,2
+2026-07-18,Line-A,Shift-1,Bracket,Handling damage,2
+2026-07-18,Line-A,Shift-2,Sensor Mount,Handling damage,4
+2026-07-18,Line-A,Shift-2,Sensor Mount,Missing component,3
+2026-07-18,Line-A,Shift-3,Connector,Missing component,5
+2026-07-18,Line-A,Shift-3,Connector,Dimensional out-of-spec,5
+2026-07-18,Line-B,Shift-1,Sensor Mount,Dimensional out-of-spec,7
+2026-07-18,Line-B,Shift-2,Sensor Mount,Missing component,12
+2026-07-18,Line-B,Shift-2,Sensor Mount,Assembly misalignment,11
+2026-07-18,Line-B,Shift-3,Housing,Assembly misalignment,9
+2026-07-18,Line-B,Shift-3,Housing,Handling damage,1
+2026-07-18,Line-C,Shift-1,Connector,Dimensional out-of-spec,7
+2026-07-18,Line-C,Shift-1,Connector,Dimensional out-of-spec,9
+2026-07-18,Line-C,Shift-1,Connector,Dimensional out-of-spec,1
+2026-07-18,Line-C,Shift-2,Housing,Missing component,9
+2026-07-18,Line-C,Shift-3,Bracket,Assembly misalignment,1
+2026-07-18,Line-C,Shift-3,Bracket,Assembly misalignment,6
+2026-07-19,Line-A,Shift-1,Sensor Mount,Handling damage,3
+2026-07-19,Line-A,Shift-1,Sensor Mount,Handling damage,4
+2026-07-19,Line-A,Shift-2,Connector,Dimensional out-of-spec,14
+2026-07-19,Line-A,Shift-3,Housing,Surface defect,1
+2026-07-19,Line-A,Shift-3,Housing,Handling damage,8
+2026-07-19,Line-B,Shift-1,Connector,Assembly misalignment,11
+2026-07-19,Line-B,Shift-1,Connector,Handling damage,5
+2026-07-19,Line-B,Shift-2,Connector,Assembly misalignment,23
+2026-07-19,Line-B,Shift-2,Connector,Missing component,2
+2026-07-19,Line-B,Shift-2,Connector,Assembly misalignment,1
+2026-07-19,Line-B,Shift-3,Bracket,Assembly misalignment,1
+2026-07-19,Line-B,Shift-3,Bracket,Dimensional out-of-spec,13
+2026-07-19,Line-C,Shift-1,Housing,Dimensional out-of-spec,2
+2026-07-19,Line-C,Shift-1,Housing,Handling damage,5
+2026-07-19,Line-C,Shift-2,Bracket,Missing component,5
+2026-07-19,Line-C,Shift-3,Sensor Mount,Missing component,6
+2026-07-19,Line-C,Shift-3,Sensor Mount,Missing component,2
+2026-07-20,Line-A,Shift-1,Connector,Dimensional out-of-spec,4
+2026-07-20,Line-A,Shift-1,Connector,Surface defect,5
+2026-07-20,Line-A,Shift-1,Connector,Missing component,1
+2026-07-20,Line-A,Shift-2,Housing,Assembly misalignment,2
+2026-07-20,Line-A,Shift-2,Housing,Missing component,6
+2026-07-20,Line-A,Shift-2,Housing,Handling damage,6
+2026-07-20,Line-A,Shift-3,Bracket,Dimensional out-of-spec,3
+2026-07-20,Line-A,Shift-3,Bracket,Assembly misalignment,1
+2026-07-20,Line-A,Shift-3,Bracket,Assembly misalignment,2
+2026-07-20,Line-B,Shift-1,Housing,Surface defect,6
+2026-07-20,Line-B,Shift-2,Sensor Mount,Assembly misalignment,11
+2026-07-20,Line-B,Shift-2,Sensor Mount,Surface defect,2
+2026-07-20,Line-B,Shift-3,Sensor Mount,Surface defect,2
+2026-07-20,Line-B,Shift-3,Sensor Mount,Surface defect,3
+2026-07-20,Line-C,Shift-1,Bracket,Surface defect,17
+2026-07-20,Line-C,Shift-2,Sensor Mount,Handling damage,2
+2026-07-20,Line-C,Shift-2,Sensor Mount,Surface defect,5
+2026-07-20,Line-C,Shift-2,Sensor Mount,Surface defect,2
+2026-07-20,Line-C,Shift-3,Connector,Handling damage,8
+2026-07-20,Line-C,Shift-3,Connector,Dimensional out-of-spec,1
+2026-07-21,Line-A,Shift-1,Housing,Dimensional out-of-spec,7
+2026-07-21,Line-A,Shift-1,Housing,Surface defect,1
+2026-07-21,Line-A,Shift-2,Bracket,Dimensional out-of-spec,9
+2026-07-21,Line-A,Shift-3,Sensor Mount,Missing component,2
+2026-07-21,Line-A,Shift-3,Sensor Mount,Missing component,2
+2026-07-21,Line-A,Shift-3,Sensor Mount,Missing component,1
+2026-07-21,Line-B,Shift-1,Bracket,Surface defect,7
+2026-07-21,Line-B,Shift-1,Bracket,Surface defect,5
+2026-07-21,Line-B,Shift-1,Bracket,Dimensional out-of-spec,2
+2026-07-21,Line-B,Shift-2,Connector,Missing component,4
+2026-07-21,Line-B,Shift-2,Connector,Handling damage,2
+2026-07-21,Line-B,Shift-2,Connector,Dimensional out-of-spec,18
+2026-07-21,Line-B,Shift-3,Connector,Missing component,1
+2026-07-21,Line-B,Shift-3,Connector,Surface defect,7
+2026-07-21,Line-B,Shift-3,Connector,Handling damage,6
+2026-07-21,Line-C,Shift-1,Sensor Mount,Assembly misalignment,1
+2026-07-21,Line-C,Shift-1,Sensor Mount,Surface defect,1
+2026-07-21,Line-C,Shift-1,Sensor Mount,Handling damage,1
+2026-07-21,Line-C,Shift-2,Connector,Assembly misalignment,8
+2026-07-21,Line-C,Shift-2,Connector,Missing component,1
+2026-07-21,Line-C,Shift-2,Connector,Handling damage,2
+2026-07-21,Line-C,Shift-3,Housing,Handling damage,1
+2026-07-21,Line-C,Shift-3,Housing,Missing component,5
+2026-07-22,Line-A,Shift-1,Bracket,Assembly misalignment,1
+2026-07-22,Line-A,Shift-1,Bracket,Dimensional out-of-spec,4
+2026-07-22,Line-A,Shift-1,Bracket,Handling damage,1
+2026-07-22,Line-A,Shift-2,Sensor Mount,Handling damage,5
+2026-07-22,Line-A,Shift-3,Connector,Missing component,14
+2026-07-22,Line-B,Shift-1,Sensor Mount,Assembly misalignment,3
+2026-07-22,Line-B,Shift-1,Sensor Mount,Assembly misalignment,3
+2026-07-22,Line-B,Shift-1,Sensor Mount,Handling damage,2
+2026-07-22,Line-B,Shift-2,Sensor Mount,Dimensional out-of-spec,8
+2026-07-22,Line-B,Shift-2,Sensor Mount,Assembly misalignment,3
+2026-07-22,Line-B,Shift-2,Sensor Mount,Handling damage,9
+2026-07-22,Line-B,Shift-3,Housing,Surface defect,5
+2026-07-22,Line-B,Shift-3,Housing,Missing component,3
+2026-07-22,Line-C,Shift-1,Connector,Surface defect,9
+2026-07-22,Line-C,Shift-1,Connector,Handling damage,2
+2026-07-22,Line-C,Shift-1,Connector,Dimensional out-of-spec,2
+2026-07-22,Line-C,Shift-2,Housing,Surface defect,2
+2026-07-22,Line-C,Shift-2,Housing,Dimensional out-of-spec,3
+2026-07-22,Line-C,Shift-3,Bracket,Dimensional out-of-spec,8
+2026-07-22,Line-C,Shift-3,Bracket,Dimensional out-of-spec,2
+2026-07-23,Line-A,Shift-1,Sensor Mount,Dimensional out-of-spec,1
+2026-07-23,Line-A,Shift-2,Connector,Surface defect,4
+2026-07-23,Line-A,Shift-2,Connector,Assembly misalignment,5
+2026-07-23,Line-A,Shift-3,Housing,Missing component,4
+2026-07-23,Line-A,Shift-3,Housing,Handling damage,2
+2026-07-23,Line-B,Shift-1,Connector,Dimensional out-of-spec,8
+2026-07-23,Line-B,Shift-1,Connector,Dimensional out-of-spec,1
+2026-07-23,Line-B,Shift-1,Connector,Assembly misalignment,1
+2026-07-23,Line-B,Shift-2,Connector,Handling damage,20
+2026-07-23,Line-B,Shift-3,Bracket,Handling damage,4
+2026-07-23,Line-C,Shift-1,Housing,Assembly misalignment,1
+2026-07-23,Line-C,Shift-1,Housing,Dimensional out-of-spec,1
+2026-07-23,Line-C,Shift-2,Bracket,Assembly misalignment,1
+2026-07-23,Line-C,Shift-2,Bracket,Surface defect,1
+2026-07-23,Line-C,Shift-2,Bracket,Missing component,5
+2026-07-23,Line-C,Shift-3,Sensor Mount,Assembly misalignment,6
+2026-07-24,Line-A,Shift-1,Connector,Dimensional out-of-spec,2
+2026-07-24,Line-A,Shift-1,Connector,Assembly misalignment,2
+2026-07-24,Line-A,Shift-1,Connector,Missing component,1
+2026-07-24,Line-A,Shift-2,Housing,Surface defect,7
+2026-07-24,Line-A,Shift-2,Housing,Assembly misalignment,1
+2026-07-24,Line-A,Shift-2,Housing,Assembly misalignment,2
+2026-07-24,Line-A,Shift-3,Bracket,Missing component,3
+2026-07-24,Line-B,Shift-1,Housing,Assembly misalignment,1
+2026-07-24,Line-B,Shift-1,Housing,Assembly misalignment,1
+2026-07-24,Line-B,Shift-2,Sensor Mount,Missing component,5
+2026-07-24,Line-B,Shift-2,Sensor Mount,Assembly misalignment,7
+2026-07-24,Line-B,Shift-3,Sensor Mount,Missing component,2
+2026-07-24,Line-B,Shift-3,Sensor Mount,Assembly misalignment,3
+2026-07-24,Line-C,Shift-1,Bracket,Dimensional out-of-spec,4
+2026-07-24,Line-C,Shift-1,Bracket,Missing component,4
+2026-07-24,Line-C,Shift-1,Bracket,Handling damage,1
+2026-07-24,Line-C,Shift-2,Sensor Mount,Dimensional out-of-spec,3
+2026-07-24,Line-C,Shift-3,Connector,Assembly misalignment,4
+2026-07-24,Line-C,Shift-3,Connector,Missing component,4
+2026-07-24,Line-C,Shift-3,Connector,Missing component,2
+2026-07-25,Line-A,Shift-1,Housing,Assembly misalignment,6
+2026-07-25,Line-A,Shift-2,Bracket,Assembly misalignment,2
+2026-07-25,Line-A,Shift-2,Bracket,Missing component,1
+2026-07-25,Line-A,Shift-3,Sensor Mount,Dimensional out-of-spec,3
+2026-07-25,Line-A,Shift-3,Sensor Mount,Surface defect,1
+2026-07-25,Line-B,Shift-1,Bracket,Missing component,2
+2026-07-25,Line-B,Shift-1,Bracket,Missing component,1
+2026-07-25,Line-B,Shift-1,Bracket,Dimensional out-of-spec,3
+2026-07-25,Line-B,Shift-2,Connector,Missing component,7
+2026-07-25,Line-B,Shift-2,Connector,Dimensional out-of-spec,12
+2026-07-25,Line-B,Shift-3,Connector,Handling damage,5
+2026-07-25,Line-B,Shift-3,Connector,Dimensional out-of-spec,5
+2026-07-25,Line-B,Shift-3,Connector,Surface defect,2
+2026-07-25,Line-C,Shift-1,Sensor Mount,Surface defect,1
+2026-07-25,Line-C,Shift-2,Connector,Surface defect,3
+2026-07-25,Line-C,Shift-2,Connector,Assembly misalignment,6
+2026-07-25,Line-C,Shift-3,Housing,Missing component,4
+2026-07-25,Line-C,Shift-3,Housing,Missing component,4
+2026-07-26,Line-A,Shift-1,Bracket,Handling damage,2
+2026-07-26,Line-A,Shift-2,Sensor Mount,Missing component,5
+2026-07-26,Line-A,Shift-3,Connector,Missing component,7
+2026-07-26,Line-B,Shift-1,Sensor Mount,Handling damage,1
+2026-07-26,Line-B,Shift-2,Sensor Mount,Assembly misalignment,6
+2026-07-26,Line-B,Shift-2,Sensor Mount,Handling damage,5
+2026-07-26,Line-B,Shift-2,Sensor Mount,Handling damage,3
+2026-07-26,Line-B,Shift-3,Housing,Assembly misalignment,1
+2026-07-26,Line-B,Shift-3,Housing,Surface defect,3
+2026-07-26,Line-C,Shift-1,Connector,Dimensional out-of-spec,4
+2026-07-26,Line-C,Shift-1,Connector,Dimensional out-of-spec,2
+2026-07-26,Line-C,Shift-2,Housing,Assembly misalignment,6
+2026-07-26,Line-C,Shift-2,Housing,Dimensional out-of-spec,2
+2026-07-26,Line-C,Shift-3,Bracket,Dimensional out-of-spec,8
+2026-07-26,Line-C,Shift-3,Bracket,Dimensional out-of-spec,1
+2026-07-26,Line-C,Shift-3,Bracket,Dimensional out-of-spec,1
+2026-07-27,Line-A,Shift-1,Sensor Mount,Surface defect,1
+2026-07-27,Line-A,Shift-2,Connector,Surface defect,11
+2026-07-27,Line-A,Shift-2,Connector,Dimensional out-of-spec,1
+2026-07-27,Line-A,Shift-3,Housing,Dimensional out-of-spec,10
+2026-07-27,Line-B,Shift-1,Connector,Missing component,2
+2026-07-27,Line-B,Shift-1,Connector,Surface defect,10
+2026-07-27,Line-B,Shift-2,Connector,Dimensional out-of-spec,22
+2026-07-27,Line-B,Shift-3,Bracket,Surface defect,8
+2026-07-27,Line-B,Shift-3,Bracket,Dimensional out-of-spec,1
+2026-07-27,Line-C,Shift-1,Housing,Surface defect,1
+2026-07-27,Line-C,Shift-1,Housing,Handling damage,1
+2026-07-27,Line-C,Shift-2,Bracket,Handling damage,1
+2026-07-27,Line-C,Shift-2,Bracket,Handling damage,1
+2026-07-27,Line-C,Shift-3,Sensor Mount,Missing component,4
+2026-07-28,Line-A,Shift-1,Connector,Missing component,11
+2026-07-28,Line-A,Shift-1,Connector,Dimensional out-of-spec,1
+2026-07-28,Line-A,Shift-1,Connector,Dimensional out-of-spec,1
+2026-07-28,Line-A,Shift-2,Housing,Assembly misalignment,1
+2026-07-28,Line-A,Shift-2,Housing,Dimensional out-of-spec,1
+2026-07-28,Line-A,Shift-3,Bracket,Assembly misalignment,1
+2026-07-28,Line-A,Shift-3,Bracket,Missing component,1
+2026-07-28,Line-B,Shift-1,Housing,Dimensional out-of-spec,1
+2026-07-28,Line-B,Shift-1,Housing,Dimensional out-of-spec,1
+2026-07-28,Line-B,Shift-2,Sensor Mount,Assembly misalignment,2
+2026-07-28,Line-B,Shift-2,Sensor Mount,Missing component,1
+2026-07-28,Line-B,Shift-2,Sensor Mount,Assembly misalignment,12
+2026-07-28,Line-B,Shift-3,Sensor Mount,Assembly misalignment,8
+2026-07-28,Line-C,Shift-1,Bracket,Surface defect,9
+2026-07-28,Line-C,Shift-2,Sensor Mount,Surface defect,6
+2026-07-28,Line-C,Shift-2,Sensor Mount,Assembly misalignment,1
+2026-07-28,Line-C,Shift-2,Sensor Mount,Surface defect,1
+2026-07-28,Line-C,Shift-3,Connector,Handling damage,7
+2026-07-29,Line-A,Shift-1,Housing,Assembly misalignment,1
+2026-07-29,Line-A,Shift-1,Housing,Surface defect,1
+2026-07-29,Line-A,Shift-2,Bracket,Dimensional out-of-spec,12
+2026-07-29,Line-A,Shift-3,Sensor Mount,Missing component,4
+2026-07-29,Line-B,Shift-1,Bracket,Assembly misalignment,2
+2026-07-29,Line-B,Shift-2,Connector,Handling damage,30
+2026-07-29,Line-B,Shift-3,Connector,Assembly misalignment,4
+2026-07-29,Line-B,Shift-3,Connector,Assembly misalignment,3
+2026-07-29,Line-C,Shift-1,Sensor Mount,Surface defect,9
+2026-07-29,Line-C,Shift-2,Connector,Surface defect,1
+2026-07-29,Line-C,Shift-2,Connector,Assembly misalignment,4
+2026-07-29,Line-C,Shift-3,Housing,Surface defect,5
+2026-07-29,Line-C,Shift-3,Housing,Dimensional out-of-spec,7
+2026-07-30,Line-A,Shift-1,Bracket,Surface defect,7
+2026-07-30,Line-A,Shift-2,Sensor Mount,Handling damage,6
+2026-07-30,Line-A,Shift-2,Sensor Mount,Handling damage,1
+2026-07-30,Line-A,Shift-2,Sensor Mount,Assembly misalignment,1
+2026-07-30,Line-A,Shift-3,Connector,Missing component,14
+2026-07-30,Line-B,Shift-1,Sensor Mount,Assembly misalignment,3
+2026-07-30,Line-B,Shift-2,Sensor Mount,Assembly misalignment,14
+2026-07-30,Line-B,Shift-3,Housing,Assembly misalignment,6
+2026-07-30,Line-B,Shift-3,Housing,Missing component,1
+2026-07-30,Line-C,Shift-1,Connector,Dimensional out-of-spec,15
+2026-07-30,Line-C,Shift-2,Housing,Assembly misalignment,1
+2026-07-30,Line-C,Shift-2,Housing,Handling damage,1
+2026-07-30,Line-C,Shift-3,Bracket,Surface defect,2

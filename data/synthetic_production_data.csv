@@ -1,271 +1,271 @@
 date,line,shift,product,planned_minutes,downtime_minutes,operating_minutes,ideal_cycle_time_sec,total_units,good_units,scrap_units
-2026-07-01,Line-A,Shift-1,Housing,480,41,439,38,562,555,7
-2026-07-01,Line-A,Shift-2,Bracket,480,24,456,42,583,578,5
-2026-07-01,Line-A,Shift-3,Connector,480,39,441,48,526,520,6
-2026-07-01,Line-B,Shift-1,Sensor Mount,480,58,422,48,481,462,19
-2026-07-01,Line-B,Shift-2,Housing,480,57,423,42,534,500,34
-2026-07-01,Line-B,Shift-3,Bracket,480,24,456,42,576,565,11
-2026-07-01,Line-C,Shift-1,Connector,480,90,390,48,443,425,18
-2026-07-01,Line-C,Shift-2,Sensor Mount,480,63,417,55,447,436,11
-2026-07-01,Line-C,Shift-3,Housing,480,12,468,42,585,579,6
-2026-07-02,Line-A,Shift-1,Sensor Mount,480,11,469,55,417,414,3
-2026-07-02,Line-A,Shift-2,Housing,480,30,450,48,485,459,26
-2026-07-02,Line-A,Shift-3,Housing,480,42,438,42,505,490,15
-2026-07-02,Line-B,Shift-1,Sensor Mount,480,76,404,55,387,375,12
-2026-07-02,Line-B,Shift-2,Sensor Mount,480,40,440,38,635,611,24
-2026-07-02,Line-B,Shift-3,Housing,480,37,443,42,571,548,23
-2026-07-02,Line-C,Shift-1,Connector,480,69,411,38,605,573,32
-2026-07-02,Line-C,Shift-2,Bracket,480,29,451,42,529,514,15
-2026-07-02,Line-C,Shift-3,Housing,480,39,441,42,515,500,15
-2026-07-03,Line-A,Shift-1,Connector,480,0,480,48,605,585,20
-2026-07-03,Line-A,Shift-2,Housing,480,70,410,38,615,609,6
-2026-07-03,Line-A,Shift-3,Housing,480,0,480,42,624,603,21
-2026-07-03,Line-B,Shift-1,Housing,480,74,406,55,411,397,14
-2026-07-03,Line-B,Shift-2,Connector,480,32,448,42,545,513,32
-2026-07-03,Line-B,Shift-3,Bracket,480,24,456,48,481,468,13
-2026-07-03,Line-C,Shift-1,Sensor Mount,480,72,408,38,525,514,11
-2026-07-03,Line-C,Shift-2,Housing,480,16,464,55,491,487,4
-2026-07-03,Line-C,Shift-3,Housing,480,76,404,38,518,513,5
-2026-07-04,Line-A,Shift-1,Bracket,480,29,451,42,601,587,14
-2026-07-04,Line-A,Shift-2,Sensor Mount,480,57,423,55,445,436,9
-2026-07-04,Line-A,Shift-3,Bracket,480,0,480,42,662,643,19
-2026-07-04,Line-B,Shift-1,Bracket,480,19,461,55,503,493,10
-2026-07-04,Line-B,Shift-2,Sensor Mount,480,84,396,48,435,404,31
-2026-07-04,Line-B,Shift-3,Bracket,480,0,480,48,595,573,22
-2026-07-04,Line-C,Shift-1,Sensor Mount,480,66,414,55,424,410,14
-2026-07-04,Line-C,Shift-2,Housing,480,36,444,48,506,487,19
-2026-07-04,Line-C,Shift-3,Sensor Mount,480,66,414,48,414,393,21
-2026-07-05,Line-A,Shift-1,Housing,480,42,438,38,674,667,7
-2026-07-05,Line-A,Shift-2,Bracket,480,69,411,55,354,348,6
-2026-07-05,Line-A,Shift-3,Sensor Mount,480,12,468,55,457,436,21
-2026-07-05,Line-B,Shift-1,Sensor Mount,480,17,463,55,402,394,8
-2026-07-05,Line-B,Shift-2,Bracket,480,64,416,42,537,512,25
-2026-07-05,Line-B,Shift-3,Bracket,480,51,429,55,388,377,11
-2026-07-05,Line-C,Shift-1,Bracket,480,68,412,38,606,599,7
-2026-07-05,Line-C,Shift-2,Sensor Mount,480,24,456,48,544,530,14
-2026-07-05,Line-C,Shift-3,Housing,480,43,437,42,508,501,7
-2026-07-06,Line-A,Shift-1,Sensor Mount,480,46,434,48,443,427,16
-2026-07-06,Line-A,Shift-2,Sensor Mount,480,11,469,55,407,391,16
-2026-07-06,Line-A,Shift-3,Connector,480,64,416,48,413,398,15
-2026-07-06,Line-B,Shift-1,Connector,480,6,474,42,678,664,14
-2026-07-06,Line-B,Shift-2,Connector,480,57,423,48,415,388,27
-2026-07-06,Line-B,Shift-3,Housing,480,74,406,42,517,495,22
-2026-07-06,Line-C,Shift-1,Sensor Mount,480,61,419,55,461,446,15
-2026-07-06,Line-C,Shift-2,Bracket,480,63,417,48,497,489,8
-2026-07-06,Line-C,Shift-3,Sensor Mount,480,62,418,42,507,487,20
-2026-07-07,Line-A,Shift-1,Housing,480,16,464,48,476,472,4
-2026-07-07,Line-A,Shift-2,Housing,480,46,434,42,500,479,21
-2026-07-07,Line-A,Shift-3,Sensor Mount,480,11,469,38,738,725,13
-2026-07-07,Line-B,Shift-1,Bracket,480,16,464,38,597,581,16
-2026-07-07,Line-B,Shift-2,Sensor Mount,480,15,465,42,616,566,50
-2026-07-07,Line-B,Shift-3,Sensor Mount,480,55,425,55,374,359,15
-2026-07-07,Line-C,Shift-1,Sensor Mount,480,59,421,48,491,468,23
-2026-07-07,Line-C,Shift-2,Connector,480,44,436,55,470,463,7
-2026-07-07,Line-C,Shift-3,Sensor Mount,480,53,427,55,411,402,9
-2026-07-08,Line-A,Shift-1,Sensor Mount,480,14,466,55,469,449,20
-2026-07-08,Line-A,Shift-2,Housing,480,36,444,42,496,483,13
-2026-07-08,Line-A,Shift-3,Connector,480,21,459,55,502,493,9
-2026-07-08,Line-B,Shift-1,Sensor Mount,480,37,443,38,639,604,35
-2026-07-08,Line-B,Shift-2,Connector,480,61,419,42,584,556,28
-2026-07-08,Line-B,Shift-3,Sensor Mount,480,60,420,38,597,580,17
-2026-07-08,Line-C,Shift-1,Sensor Mount,480,23,457,48,527,513,14
-2026-07-08,Line-C,Shift-2,Housing,480,45,435,38,580,570,10
-2026-07-08,Line-C,Shift-3,Connector,480,78,402,42,539,512,27
-2026-07-09,Line-A,Shift-1,Sensor Mount,480,25,455,48,496,477,19
-2026-07-09,Line-A,Shift-2,Bracket,480,49,431,42,544,534,10
-2026-07-09,Line-A,Shift-3,Sensor Mount,480,32,448,55,414,392,22
-2026-07-09,Line-B,Shift-1,Housing,480,17,463,55,490,466,24
-2026-07-09,Line-B,Shift-2,Housing,480,43,437,48,471,449,22
-2026-07-09,Line-B,Shift-3,Bracket,480,35,445,48,550,522,28
-2026-07-09,Line-C,Shift-1,Connector,480,62,418,48,438,432,6
-2026-07-09,Line-C,Shift-2,Sensor Mount,480,54,426,42,564,543,21
-2026-07-09,Line-C,Shift-3,Connector,480,83,397,38,507,493,14
-2026-07-10,Line-A,Shift-1,Bracket,480,70,410,55,394,387,7
-2026-07-10,Line-A,Shift-2,Bracket,480,84,396,38,500,492,8
-2026-07-10,Line-A,Shift-3,Bracket,480,27,453,38,694,671,23
-2026-07-10,Line-B,Shift-1,Sensor Mount,480,79,401,42,463,452,11
-2026-07-10,Line-B,Shift-2,Housing,480,72,408,38,572,533,39
-2026-07-10,Line-B,Shift-3,Connector,480,67,413,38,568,546,22
-2026-07-10,Line-C,Shift-1,Sensor Mount,480,52,428,48,464,448,16
-2026-07-10,Line-C,Shift-2,Connector,480,3,477,42,593,568,25
-2026-07-10,Line-C,Shift-3,Housing,480,65,415,38,636,629,7
-2026-07-11,Line-A,Shift-1,Sensor Mount,480,0,480,38,754,733,21
-2026-07-11,Line-A,Shift-2,Housing,480,67,413,42,481,467,14
-2026-07-11,Line-A,Shift-3,Connector,480,14,466,38,690,684,6
-2026-07-11,Line-B,Shift-1,Connector,480,19,461,38,590,568,22
-2026-07-11,Line-B,Shift-2,Sensor Mount,480,15,465,42,636,604,32
-2026-07-11,Line-B,Shift-3,Housing,480,69,411,38,545,524,21
-2026-07-11,Line-C,Shift-1,Connector,480,65,415,48,475,472,3
-2026-07-11,Line-C,Shift-2,Connector,480,48,432,42,499,483,16
-2026-07-11,Line-C,Shift-3,Connector,480,32,448,38,602,586,16
-2026-07-12,Line-A,Shift-1,Sensor Mount,480,44,436,38,605,598,7
-2026-07-12,Line-A,Shift-2,Housing,480,26,454,38,686,670,16
-2026-07-12,Line-A,Shift-3,Bracket,480,38,442,38,572,547,25
-2026-07-12,Line-B,Shift-1,Connector,480,12,468,55,467,456,11
-2026-07-12,Line-B,Shift-2,Sensor Mount,480,10,470,48,468,431,37
-2026-07-12,Line-B,Shift-3,Housing,480,52,428,48,496,492,4
-2026-07-12,Line-C,Shift-1,Housing,480,40,440,48,437,432,5
-2026-07-12,Line-C,Shift-2,Bracket,480,29,451,48,524,517,7
-2026-07-12,Line-C,Shift-3,Connector,480,74,406,48,397,389,8
-2026-07-13,Line-A,Shift-1,Bracket,480,30,450,38,636,615,21
-2026-07-13,Line-A,Shift-2,Connector,480,82,398,42,464,443,21
-2026-07-13,Line-A,Shift-3,Sensor Mount,480,43,437,55,476,455,21
-2026-07-13,Line-B,Shift-1,Connector,480,59,421,42,581,555,26
-2026-07-13,Line-B,Shift-2,Housing,480,54,426,48,469,440,29
-2026-07-13,Line-B,Shift-3,Housing,480,49,431,55,420,412,8
-2026-07-13,Line-C,Shift-1,Sensor Mount,480,60,420,38,637,628,9
-2026-07-13,Line-C,Shift-2,Housing,480,12,468,38,619,590,29
-2026-07-13,Line-C,Shift-3,Housing,480,56,424,38,604,582,22
-2026-07-14,Line-A,Shift-1,Bracket,480,17,463,55,415,399,16
-2026-07-14,Line-A,Shift-2,Connector,480,41,439,48,526,514,12
-2026-07-14,Line-A,Shift-3,Sensor Mount,480,46,434,42,602,578,24
-2026-07-14,Line-B,Shift-1,Housing,480,68,412,48,518,501,17
-2026-07-14,Line-B,Shift-2,Sensor Mount,480,30,450,38,684,649,35
-2026-07-14,Line-B,Shift-3,Connector,480,21,459,42,522,502,20
-2026-07-14,Line-C,Shift-1,Connector,480,36,444,48,514,491,23
-2026-07-14,Line-C,Shift-2,Housing,480,62,418,42,525,518,7
-2026-07-14,Line-C,Shift-3,Bracket,480,12,468,55,509,497,12
-2026-07-15,Line-A,Shift-1,Sensor Mount,480,34,446,55,486,482,4
-2026-07-15,Line-A,Shift-2,Sensor Mount,480,59,421,55,379,374,5
-2026-07-15,Line-A,Shift-3,Housing,480,23,457,48,517,506,11
-2026-07-15,Line-B,Shift-1,Bracket,480,9,471,38,747,714,33
-2026-07-15,Line-B,Shift-2,Housing,480,7,473,38,705,661,44
-2026-07-15,Line-B,Shift-3,Connector,480,130,350,48,353,337,16
-2026-07-15,Line-C,Shift-1,Bracket,480,25,455,42,558,529,29
-2026-07-15,Line-C,Shift-2,Housing,480,75,405,42,529,511,18
-2026-07-15,Line-C,Shift-3,Housing,480,18,462,48,505,486,19
-2026-07-16,Line-A,Shift-1,Bracket,480,8,472,55,450,437,13
-2026-07-16,Line-A,Shift-2,Housing,480,42,438,48,483,476,7
-2026-07-16,Line-A,Shift-3,Bracket,480,54,426,48,529,507,22
-2026-07-16,Line-B,Shift-1,Housing,480,0,480,55,433,423,10
-2026-07-16,Line-B,Shift-2,Connector,480,39,441,55,406,396,10
-2026-07-16,Line-B,Shift-3,Housing,480,29,451,42,559,543,16
-2026-07-16,Line-C,Shift-1,Sensor Mount,480,57,423,48,479,467,12
-2026-07-16,Line-C,Shift-2,Housing,480,32,448,42,575,567,8
-2026-07-16,Line-C,Shift-3,Sensor Mount,480,0,480,48,538,521,17
-2026-07-17,Line-A,Shift-1,Sensor Mount,480,11,469,48,535,511,24
-2026-07-17,Line-A,Shift-2,Bracket,480,0,480,38,692,681,11
-2026-07-17,Line-A,Shift-3,Housing,480,62,418,42,486,467,19
-2026-07-17,Line-B,Shift-1,Connector,480,44,436,48,545,529,16
-2026-07-17,Line-B,Shift-2,Sensor Mount,480,52,428,48,453,435,18
-2026-07-17,Line-B,Shift-3,Sensor Mount,480,105,375,38,500,480,20
-2026-07-17,Line-C,Shift-1,Sensor Mount,480,63,417,48,476,467,9
-2026-07-17,Line-C,Shift-2,Sensor Mount,480,67,413,55,361,346,15
-2026-07-17,Line-C,Shift-3,Connector,480,18,462,55,426,417,9
-2026-07-18,Line-A,Shift-1,Connector,480,9,471,42,668,662,6
-2026-07-18,Line-A,Shift-2,Connector,480,57,423,42,497,491,6
-2026-07-18,Line-A,Shift-3,Sensor Mount,480,20,460,48,523,501,22
-2026-07-18,Line-B,Shift-1,Bracket,480,0,480,42,535,522,13
-2026-07-18,Line-B,Shift-2,Housing,480,49,431,48,500,472,28
-2026-07-18,Line-B,Shift-3,Sensor Mount,480,5,475,38,648,637,11
-2026-07-18,Line-C,Shift-1,Bracket,480,0,480,42,641,618,23
-2026-07-18,Line-C,Shift-2,Connector,480,69,411,48,407,394,13
-2026-07-18,Line-C,Shift-3,Housing,480,56,424,55,446,433,13
-2026-07-19,Line-A,Shift-1,Housing,480,8,472,38,673,666,7
-2026-07-19,Line-A,Shift-2,Connector,480,59,421,42,575,550,25
-2026-07-19,Line-A,Shift-3,Connector,480,39,441,42,491,487,4
-2026-07-19,Line-B,Shift-1,Sensor Mount,480,25,455,42,548,520,28
-2026-07-19,Line-B,Shift-2,Housing,480,20,460,38,678,632,46
-2026-07-19,Line-B,Shift-3,Housing,480,27,453,42,579,567,12
-2026-07-19,Line-C,Shift-1,Bracket,480,39,441,55,480,457,23
-2026-07-19,Line-C,Shift-2,Connector,480,50,430,48,504,491,13
-2026-07-19,Line-C,Shift-3,Sensor Mount,480,60,420,42,545,516,29
-2026-07-20,Line-A,Shift-1,Housing,480,0,480,55,509,503,6
-2026-07-20,Line-A,Shift-2,Housing,480,57,423,38,631,610,21
-2026-07-20,Line-A,Shift-3,Bracket,480,79,401,42,498,489,9
-2026-07-20,Line-B,Shift-1,Connector,480,97,383,55,370,353,17
-2026-07-20,Line-B,Shift-2,Bracket,480,81,399,42,446,419,27
-2026-07-20,Line-B,Shift-3,Sensor Mount,480,44,436,48,515,493,22
-2026-07-20,Line-C,Shift-1,Housing,480,14,466,38,733,705,28
-2026-07-20,Line-C,Shift-2,Housing,480,70,410,42,506,488,18
-2026-07-20,Line-C,Shift-3,Sensor Mount,480,43,437,48,428,409,19
-2026-07-21,Line-A,Shift-1,Sensor Mount,480,39,441,48,477,465,12
-2026-07-21,Line-A,Shift-2,Housing,480,65,415,55,391,378,13
-2026-07-21,Line-A,Shift-3,Housing,480,61,419,55,391,370,21
-2026-07-21,Line-B,Shift-1,Bracket,480,13,467,55,428,406,22
-2026-07-21,Line-B,Shift-2,Bracket,480,28,452,55,428,397,31
-2026-07-21,Line-B,Shift-3,Housing,480,15,465,48,534,515,19
-2026-07-21,Line-C,Shift-1,Bracket,480,70,410,55,430,413,17
-2026-07-21,Line-C,Shift-2,Bracket,480,59,421,55,391,386,5
-2026-07-21,Line-C,Shift-3,Bracket,480,52,428,38,612,596,16
-2026-07-22,Line-A,Shift-1,Sensor Mount,480,66,414,55,353,344,9
-2026-07-22,Line-A,Shift-2,Bracket,480,39,441,42,512,504,8
-2026-07-22,Line-A,Shift-3,Bracket,480,60,420,55,368,360,8
-2026-07-22,Line-B,Shift-1,Connector,480,52,428,48,456,437,19
-2026-07-22,Line-B,Shift-2,Bracket,480,63,417,42,557,520,37
-2026-07-22,Line-B,Shift-3,Sensor Mount,480,32,448,42,510,483,27
-2026-07-22,Line-C,Shift-1,Bracket,480,0,480,38,688,662,26
-2026-07-22,Line-C,Shift-2,Housing,480,48,432,48,490,471,19
-2026-07-22,Line-C,Shift-3,Housing,480,81,399,55,349,340,9
-2026-07-23,Line-A,Shift-1,Bracket,480,35,445,55,458,445,13
-2026-07-23,Line-A,Shift-2,Housing,480,50,430,48,498,479,19
-2026-07-23,Line-A,Shift-3,Connector,480,55,425,42,528,506,22
-2026-07-23,Line-B,Shift-1,Sensor Mount,480,74,406,38,585,559,26
-2026-07-23,Line-B,Shift-2,Sensor Mount,480,17,463,55,434,402,32
-2026-07-23,Line-B,Shift-3,Housing,480,21,459,42,567,559,8
-2026-07-23,Line-C,Shift-1,Connector,480,55,425,48,469,465,4
-2026-07-23,Line-C,Shift-2,Connector,480,58,422,42,481,477,4
-2026-07-23,Line-C,Shift-3,Sensor Mount,480,47,433,42,591,573,18
-2026-07-24,Line-A,Shift-1,Sensor Mount,480,11,469,38,706,686,20
-2026-07-24,Line-A,Shift-2,Sensor Mount,480,0,480,38,725,712,13
-2026-07-24,Line-A,Shift-3,Bracket,480,70,410,42,565,540,25
-2026-07-24,Line-B,Shift-1,Housing,480,82,398,42,563,533,30
-2026-07-24,Line-B,Shift-2,Bracket,480,32,448,48,517,496,21
-2026-07-24,Line-B,Shift-3,Housing,480,38,442,38,650,634,16
-2026-07-24,Line-C,Shift-1,Connector,480,15,465,48,496,486,10
-2026-07-24,Line-C,Shift-2,Housing,480,41,439,42,627,617,10
-2026-07-24,Line-C,Shift-3,Sensor Mount,480,42,438,38,598,568,30
-2026-07-25,Line-A,Shift-1,Housing,480,69,411,38,525,516,9
-2026-07-25,Line-A,Shift-2,Housing,480,42,438,42,542,520,22
-2026-07-25,Line-A,Shift-3,Connector,480,19,461,42,523,505,18
-2026-07-25,Line-B,Shift-1,Connector,480,13,467,55,497,491,6
-2026-07-25,Line-B,Shift-2,Connector,480,62,418,48,423,408,15
-2026-07-25,Line-B,Shift-3,Bracket,480,37,443,55,409,405,4
-2026-07-25,Line-C,Shift-1,Housing,480,97,383,38,489,466,23
-2026-07-25,Line-C,Shift-2,Housing,480,37,443,55,433,417,16
-2026-07-25,Line-C,Shift-3,Bracket,480,15,465,48,564,542,22
-2026-07-26,Line-A,Shift-1,Connector,480,63,417,38,581,560,21
-2026-07-26,Line-A,Shift-2,Sensor Mount,480,14,466,42,652,625,27
-2026-07-26,Line-A,Shift-3,Housing,480,70,410,48,483,467,16
-2026-07-26,Line-B,Shift-1,Bracket,480,64,416,48,512,492,20
-2026-07-26,Line-B,Shift-2,Housing,480,76,404,55,380,354,26
-2026-07-26,Line-B,Shift-3,Connector,480,40,440,48,476,461,15
-2026-07-26,Line-C,Shift-1,Housing,480,51,429,55,372,361,11
-2026-07-26,Line-C,Shift-2,Bracket,480,23,457,48,527,512,15
-2026-07-26,Line-C,Shift-3,Sensor Mount,480,34,446,38,703,698,5
-2026-07-27,Line-A,Shift-1,Connector,480,55,425,38,566,561,5
-2026-07-27,Line-A,Shift-2,Housing,480,39,441,42,583,568,15
-2026-07-27,Line-A,Shift-3,Connector,480,34,446,48,444,437,7
-2026-07-27,Line-B,Shift-1,Connector,480,59,421,55,391,386,5
-2026-07-27,Line-B,Shift-2,Sensor Mount,480,52,428,38,549,508,41
-2026-07-27,Line-B,Shift-3,Bracket,480,88,392,38,547,522,25
-2026-07-27,Line-C,Shift-1,Bracket,480,18,462,55,467,451,16
-2026-07-27,Line-C,Shift-2,Housing,480,66,414,55,357,339,18
-2026-07-27,Line-C,Shift-3,Bracket,480,32,448,48,441,425,16
-2026-07-28,Line-A,Shift-1,Sensor Mount,480,90,390,55,344,339,5
-2026-07-28,Line-A,Shift-2,Connector,480,66,414,48,449,442,7
-2026-07-28,Line-A,Shift-3,Bracket,480,27,453,42,519,499,20
-2026-07-28,Line-B,Shift-1,Bracket,480,54,426,48,526,522,4
-2026-07-28,Line-B,Shift-2,Housing,480,7,473,38,591,561,30
-2026-07-28,Line-B,Shift-3,Housing,480,64,416,38,533,526,7
-2026-07-28,Line-C,Shift-1,Bracket,480,72,408,55,428,406,22
-2026-07-28,Line-C,Shift-2,Connector,480,39,441,48,452,449,3
-2026-07-28,Line-C,Shift-3,Bracket,480,22,458,48,544,534,10
-2026-07-29,Line-A,Shift-1,Bracket,480,17,463,38,691,684,7
-2026-07-29,Line-A,Shift-2,Bracket,480,76,404,55,350,334,16
-2026-07-29,Line-A,Shift-3,Housing,480,5,475,38,739,709,30
-2026-07-29,Line-B,Shift-1,Sensor Mount,480,101,379,48,401,396,5
-2026-07-29,Line-B,Shift-2,Housing,480,57,423,48,470,456,14
-2026-07-29,Line-B,Shift-3,Connector,480,11,469,42,579,564,15
-2026-07-29,Line-C,Shift-1,Sensor Mount,480,63,417,38,527,507,20
-2026-07-29,Line-C,Shift-2,Bracket,480,72,408,55,377,367,10
-2026-07-29,Line-C,Shift-3,Bracket,480,84,396,42,457,445,12
-2026-07-30,Line-A,Shift-1,Connector,480,34,446,55,440,419,21
-2026-07-30,Line-A,Shift-2,Housing,480,31,449,38,598,579,19
-2026-07-30,Line-A,Shift-3,Bracket,480,37,443,55,381,363,18
-2026-07-30,Line-B,Shift-1,Sensor Mount,480,36,444,48,521,515,6
-2026-07-30,Line-B,Shift-2,Housing,480,69,411,42,517,479,38
-2026-07-30,Line-B,Shift-3,Bracket,480,53,427,42,483,479,4
-2026-07-30,Line-C,Shift-1,Connector,480,30,450,38,665,653,12
-2026-07-30,Line-C,Shift-2,Sensor Mount,480,31,449,38,645,611,34
-2026-07-30,Line-C,Shift-3,Connector,480,51,429,38,662,627,35
+2026-07-01,Line-A,Shift-1,Housing,480,33,447,42,575,568,7
+2026-07-01,Line-A,Shift-2,Bracket,480,43,437,38,631,620,11
+2026-07-01,Line-A,Shift-3,Sensor Mount,480,22,458,55,426,421,5
+2026-07-01,Line-B,Shift-1,Bracket,480,46,434,38,615,609,6
+2026-07-01,Line-B,Shift-2,Connector,480,32,448,48,478,450,28
+2026-07-01,Line-B,Shift-3,Connector,480,24,456,48,523,507,16
+2026-07-01,Line-C,Shift-1,Sensor Mount,480,54,426,55,377,373,4
+2026-07-01,Line-C,Shift-2,Connector,480,57,423,48,457,447,10
+2026-07-01,Line-C,Shift-3,Housing,480,53,427,42,575,568,7
+2026-07-02,Line-A,Shift-1,Bracket,480,39,441,38,619,613,6
+2026-07-02,Line-A,Shift-2,Sensor Mount,480,45,435,55,419,412,7
+2026-07-02,Line-A,Shift-3,Connector,480,38,442,48,511,499,12
+2026-07-02,Line-B,Shift-1,Sensor Mount,480,59,421,55,374,365,9
+2026-07-02,Line-B,Shift-2,Sensor Mount,480,49,431,55,348,336,12
+2026-07-02,Line-B,Shift-3,Housing,480,20,460,42,594,588,6
+2026-07-02,Line-C,Shift-1,Connector,480,63,417,48,466,459,7
+2026-07-02,Line-C,Shift-2,Housing,480,48,432,42,504,495,9
+2026-07-02,Line-C,Shift-3,Bracket,480,46,434,38,581,572,9
+2026-07-03,Line-A,Shift-1,Sensor Mount,480,36,444,55,403,399,4
+2026-07-03,Line-A,Shift-2,Connector,480,25,455,48,490,483,7
+2026-07-03,Line-A,Shift-3,Housing,480,35,445,42,563,555,8
+2026-07-03,Line-B,Shift-1,Connector,480,34,446,48,498,488,10
+2026-07-03,Line-B,Shift-2,Connector,480,58,422,48,499,469,30
+2026-07-03,Line-B,Shift-3,Bracket,480,25,455,38,600,592,8
+2026-07-03,Line-C,Shift-1,Housing,480,36,444,42,594,579,15
+2026-07-03,Line-C,Shift-2,Bracket,480,46,434,38,622,613,9
+2026-07-03,Line-C,Shift-3,Sensor Mount,480,63,417,55,349,342,7
+2026-07-04,Line-A,Shift-1,Connector,480,39,441,48,509,496,13
+2026-07-04,Line-A,Shift-2,Housing,480,46,434,42,580,573,7
+2026-07-04,Line-A,Shift-3,Bracket,480,42,438,38,640,626,14
+2026-07-04,Line-B,Shift-1,Housing,480,11,469,42,593,582,11
+2026-07-04,Line-B,Shift-2,Sensor Mount,480,37,443,55,428,411,17
+2026-07-04,Line-B,Shift-3,Sensor Mount,480,45,435,55,421,415,6
+2026-07-04,Line-C,Shift-1,Bracket,480,70,410,38,559,552,7
+2026-07-04,Line-C,Shift-2,Sensor Mount,480,40,440,55,448,436,12
+2026-07-04,Line-C,Shift-3,Connector,480,60,420,48,451,436,15
+2026-07-05,Line-A,Shift-1,Housing,480,41,439,42,569,555,14
+2026-07-05,Line-A,Shift-2,Bracket,480,23,457,38,585,572,13
+2026-07-05,Line-A,Shift-3,Sensor Mount,480,15,465,55,419,413,6
+2026-07-05,Line-B,Shift-1,Bracket,480,29,451,38,686,681,5
+2026-07-05,Line-B,Shift-2,Connector,480,27,453,48,487,453,34
+2026-07-05,Line-B,Shift-3,Connector,480,37,443,48,476,466,10
+2026-07-05,Line-C,Shift-1,Sensor Mount,480,59,421,55,399,391,8
+2026-07-05,Line-C,Shift-2,Connector,480,59,421,48,444,432,12
+2026-07-05,Line-C,Shift-3,Housing,480,33,447,42,490,481,9
+2026-07-06,Line-A,Shift-1,Bracket,480,40,440,38,610,596,14
+2026-07-06,Line-A,Shift-2,Sensor Mount,480,41,439,55,414,408,6
+2026-07-06,Line-A,Shift-3,Connector,480,27,453,48,509,494,15
+2026-07-06,Line-B,Shift-1,Sensor Mount,480,31,449,55,438,427,11
+2026-07-06,Line-B,Shift-2,Sensor Mount,480,24,456,55,453,438,15
+2026-07-06,Line-B,Shift-3,Housing,480,44,436,42,573,568,5
+2026-07-06,Line-C,Shift-1,Connector,480,81,399,48,456,440,16
+2026-07-06,Line-C,Shift-2,Housing,480,61,419,42,538,534,4
+2026-07-06,Line-C,Shift-3,Bracket,480,61,419,38,620,606,14
+2026-07-07,Line-A,Shift-1,Sensor Mount,480,50,430,55,389,379,10
+2026-07-07,Line-A,Shift-2,Connector,480,45,435,48,467,456,11
+2026-07-07,Line-A,Shift-3,Housing,480,33,447,42,560,551,9
+2026-07-07,Line-B,Shift-1,Connector,480,13,467,48,491,475,16
+2026-07-07,Line-B,Shift-2,Connector,480,17,463,48,509,485,24
+2026-07-07,Line-B,Shift-3,Bracket,480,40,440,38,609,596,13
+2026-07-07,Line-C,Shift-1,Housing,480,61,419,42,570,563,7
+2026-07-07,Line-C,Shift-2,Bracket,480,49,431,38,639,625,14
+2026-07-07,Line-C,Shift-3,Sensor Mount,480,50,430,55,417,408,9
+2026-07-08,Line-A,Shift-1,Connector,480,51,429,48,490,477,13
+2026-07-08,Line-A,Shift-2,Housing,480,31,449,42,615,606,9
+2026-07-08,Line-A,Shift-3,Bracket,480,17,463,38,649,635,14
+2026-07-08,Line-B,Shift-1,Housing,480,51,429,42,588,577,11
+2026-07-08,Line-B,Shift-2,Sensor Mount,480,46,434,55,403,384,19
+2026-07-08,Line-B,Shift-3,Sensor Mount,480,37,443,55,408,405,3
+2026-07-08,Line-C,Shift-1,Bracket,480,48,432,38,559,550,9
+2026-07-08,Line-C,Shift-2,Sensor Mount,480,74,406,55,390,383,7
+2026-07-08,Line-C,Shift-3,Connector,480,36,444,48,504,486,18
+2026-07-09,Line-A,Shift-1,Housing,480,16,464,42,610,594,16
+2026-07-09,Line-A,Shift-2,Bracket,480,25,455,38,668,662,6
+2026-07-09,Line-A,Shift-3,Sensor Mount,480,40,440,55,400,395,5
+2026-07-09,Line-B,Shift-1,Bracket,480,49,431,38,631,619,12
+2026-07-09,Line-B,Shift-2,Connector,480,53,427,48,491,461,30
+2026-07-09,Line-B,Shift-3,Connector,480,28,452,48,503,486,17
+2026-07-09,Line-C,Shift-1,Sensor Mount,480,52,428,55,391,381,10
+2026-07-09,Line-C,Shift-2,Connector,480,50,430,48,508,491,17
+2026-07-09,Line-C,Shift-3,Housing,480,44,436,42,541,529,12
+2026-07-10,Line-A,Shift-1,Bracket,480,31,449,38,644,633,11
+2026-07-10,Line-A,Shift-2,Sensor Mount,480,58,422,55,353,350,3
+2026-07-10,Line-A,Shift-3,Connector,480,27,453,48,488,474,14
+2026-07-10,Line-B,Shift-1,Sensor Mount,480,16,464,55,444,433,11
+2026-07-10,Line-B,Shift-2,Sensor Mount,480,26,454,55,441,426,15
+2026-07-10,Line-B,Shift-3,Housing,480,43,437,42,576,569,7
+2026-07-10,Line-C,Shift-1,Connector,480,53,427,48,492,477,15
+2026-07-10,Line-C,Shift-2,Housing,480,43,437,42,585,577,8
+2026-07-10,Line-C,Shift-3,Bracket,480,54,426,38,573,560,13
+2026-07-11,Line-A,Shift-1,Sensor Mount,480,50,430,55,383,378,5
+2026-07-11,Line-A,Shift-2,Connector,480,45,435,48,516,497,19
+2026-07-11,Line-A,Shift-3,Housing,480,56,424,42,590,576,14
+2026-07-11,Line-B,Shift-1,Connector,480,20,460,48,554,542,12
+2026-07-11,Line-B,Shift-2,Connector,480,25,455,48,495,467,28
+2026-07-11,Line-B,Shift-3,Bracket,480,36,444,38,659,649,10
+2026-07-11,Line-C,Shift-1,Housing,480,61,419,42,526,518,8
+2026-07-11,Line-C,Shift-2,Bracket,480,55,425,38,624,609,15
+2026-07-11,Line-C,Shift-3,Sensor Mount,480,53,427,55,396,389,7
+2026-07-12,Line-A,Shift-1,Connector,480,40,440,48,549,538,11
+2026-07-12,Line-A,Shift-2,Housing,480,12,468,42,594,588,6
+2026-07-12,Line-A,Shift-3,Bracket,480,37,443,38,596,588,8
+2026-07-12,Line-B,Shift-1,Housing,480,23,457,42,602,591,11
+2026-07-12,Line-B,Shift-2,Sensor Mount,480,60,420,55,391,378,13
+2026-07-12,Line-B,Shift-3,Sensor Mount,480,32,448,55,384,377,7
+2026-07-12,Line-C,Shift-1,Bracket,480,44,436,38,655,645,10
+2026-07-12,Line-C,Shift-2,Sensor Mount,480,71,409,55,372,366,6
+2026-07-12,Line-C,Shift-3,Connector,480,70,410,48,474,458,16
+2026-07-13,Line-A,Shift-1,Housing,480,47,433,42,560,554,6
+2026-07-13,Line-A,Shift-2,Bracket,480,54,426,38,520,508,12
+2026-07-13,Line-A,Shift-3,Sensor Mount,480,45,435,55,367,363,4
+2026-07-13,Line-B,Shift-1,Bracket,480,55,425,38,506,495,11
+2026-07-13,Line-B,Shift-2,Connector,480,62,418,48,447,422,25
+2026-07-13,Line-B,Shift-3,Connector,480,47,433,48,468,447,21
+2026-07-13,Line-C,Shift-1,Sensor Mount,480,95,385,55,388,379,9
+2026-07-13,Line-C,Shift-2,Connector,480,70,410,48,422,407,15
+2026-07-13,Line-C,Shift-3,Housing,480,86,394,42,452,444,8
+2026-07-14,Line-A,Shift-1,Bracket,480,29,451,38,628,618,10
+2026-07-14,Line-A,Shift-2,Sensor Mount,480,24,456,55,387,383,4
+2026-07-14,Line-A,Shift-3,Connector,480,40,440,48,499,482,17
+2026-07-14,Line-B,Shift-1,Sensor Mount,480,69,411,55,376,368,8
+2026-07-14,Line-B,Shift-2,Sensor Mount,480,79,401,55,371,350,21
+2026-07-14,Line-B,Shift-3,Housing,480,66,414,42,455,440,15
+2026-07-14,Line-C,Shift-1,Connector,480,77,403,48,426,411,15
+2026-07-14,Line-C,Shift-2,Housing,480,83,397,42,479,470,9
+2026-07-14,Line-C,Shift-3,Bracket,480,70,410,38,576,563,13
+2026-07-15,Line-A,Shift-1,Sensor Mount,480,23,457,55,459,453,6
+2026-07-15,Line-A,Shift-2,Connector,480,29,451,48,503,485,18
+2026-07-15,Line-A,Shift-3,Housing,480,18,462,42,529,517,12
+2026-07-15,Line-B,Shift-1,Connector,480,49,431,48,442,423,19
+2026-07-15,Line-B,Shift-2,Connector,480,53,427,48,438,418,20
+2026-07-15,Line-B,Shift-3,Bracket,480,71,409,38,559,542,17
+2026-07-15,Line-C,Shift-1,Housing,480,99,381,42,462,451,11
+2026-07-15,Line-C,Shift-2,Bracket,480,73,407,38,570,561,9
+2026-07-15,Line-C,Shift-3,Sensor Mount,480,58,422,55,377,373,4
+2026-07-16,Line-A,Shift-1,Connector,480,44,436,48,474,465,9
+2026-07-16,Line-A,Shift-2,Housing,480,12,468,42,568,562,6
+2026-07-16,Line-A,Shift-3,Bracket,480,43,437,38,568,560,8
+2026-07-16,Line-B,Shift-1,Housing,480,53,427,42,582,566,16
+2026-07-16,Line-B,Shift-2,Sensor Mount,480,37,443,55,371,354,17
+2026-07-16,Line-B,Shift-3,Sensor Mount,480,54,426,55,373,360,13
+2026-07-16,Line-C,Shift-1,Bracket,480,80,400,38,524,519,5
+2026-07-16,Line-C,Shift-2,Sensor Mount,480,59,421,55,401,394,7
+2026-07-16,Line-C,Shift-3,Connector,480,73,407,48,405,395,10
+2026-07-17,Line-A,Shift-1,Housing,480,8,472,42,609,599,10
+2026-07-17,Line-A,Shift-2,Bracket,480,8,472,38,633,618,15
+2026-07-17,Line-A,Shift-3,Sensor Mount,480,57,423,55,363,359,4
+2026-07-17,Line-B,Shift-1,Bracket,480,60,420,38,572,555,17
+2026-07-17,Line-B,Shift-2,Connector,480,73,407,48,475,444,31
+2026-07-17,Line-B,Shift-3,Connector,480,65,415,48,433,413,20
+2026-07-17,Line-C,Shift-1,Sensor Mount,480,84,396,55,381,374,7
+2026-07-17,Line-C,Shift-2,Connector,480,59,421,48,506,496,10
+2026-07-17,Line-C,Shift-3,Housing,480,65,415,42,479,470,9
+2026-07-18,Line-A,Shift-1,Bracket,480,32,448,38,626,616,10
+2026-07-18,Line-A,Shift-2,Sensor Mount,480,24,456,55,417,410,7
+2026-07-18,Line-A,Shift-3,Connector,480,35,445,48,542,532,10
+2026-07-18,Line-B,Shift-1,Sensor Mount,480,45,435,55,416,409,7
+2026-07-18,Line-B,Shift-2,Sensor Mount,480,31,449,55,447,424,23
+2026-07-18,Line-B,Shift-3,Housing,480,39,441,42,560,550,10
+2026-07-18,Line-C,Shift-1,Connector,480,62,418,48,464,447,17
+2026-07-18,Line-C,Shift-2,Housing,480,60,420,42,564,555,9
+2026-07-18,Line-C,Shift-3,Bracket,480,74,406,38,564,557,7
+2026-07-19,Line-A,Shift-1,Sensor Mount,480,18,462,55,374,367,7
+2026-07-19,Line-A,Shift-2,Connector,480,35,445,48,514,500,14
+2026-07-19,Line-A,Shift-3,Housing,480,22,458,42,589,580,9
+2026-07-19,Line-B,Shift-1,Connector,480,38,442,48,523,507,16
+2026-07-19,Line-B,Shift-2,Connector,480,2,478,48,549,523,26
+2026-07-19,Line-B,Shift-3,Bracket,480,6,474,38,632,618,14
+2026-07-19,Line-C,Shift-1,Housing,480,57,423,42,573,566,7
+2026-07-19,Line-C,Shift-2,Bracket,480,52,428,38,591,586,5
+2026-07-19,Line-C,Shift-3,Sensor Mount,480,45,435,55,414,406,8
+2026-07-20,Line-A,Shift-1,Connector,480,22,458,48,485,475,10
+2026-07-20,Line-A,Shift-2,Housing,480,40,440,42,559,545,14
+2026-07-20,Line-A,Shift-3,Bracket,480,8,472,38,648,642,6
+2026-07-20,Line-B,Shift-1,Housing,480,15,465,42,583,577,6
+2026-07-20,Line-B,Shift-2,Sensor Mount,480,4,476,55,451,438,13
+2026-07-20,Line-B,Shift-3,Sensor Mount,480,41,439,55,400,395,5
+2026-07-20,Line-C,Shift-1,Bracket,480,50,430,38,621,604,17
+2026-07-20,Line-C,Shift-2,Sensor Mount,480,45,435,55,379,370,9
+2026-07-20,Line-C,Shift-3,Connector,480,45,435,48,506,497,9
+2026-07-21,Line-A,Shift-1,Housing,480,16,464,42,586,578,8
+2026-07-21,Line-A,Shift-2,Bracket,480,31,449,38,639,630,9
+2026-07-21,Line-A,Shift-3,Sensor Mount,480,49,431,55,388,383,5
+2026-07-21,Line-B,Shift-1,Bracket,480,21,459,38,693,679,14
+2026-07-21,Line-B,Shift-2,Connector,480,36,444,48,435,411,24
+2026-07-21,Line-B,Shift-3,Connector,480,35,445,48,501,487,14
+2026-07-21,Line-C,Shift-1,Sensor Mount,480,70,410,55,421,418,3
+2026-07-21,Line-C,Shift-2,Connector,480,54,426,48,504,493,11
+2026-07-21,Line-C,Shift-3,Housing,480,47,433,42,573,567,6
+2026-07-22,Line-A,Shift-1,Bracket,480,51,429,38,608,602,6
+2026-07-22,Line-A,Shift-2,Sensor Mount,480,33,447,55,402,397,5
+2026-07-22,Line-A,Shift-3,Connector,480,32,448,48,463,449,14
+2026-07-22,Line-B,Shift-1,Sensor Mount,480,52,428,55,381,373,8
+2026-07-22,Line-B,Shift-2,Sensor Mount,480,45,435,55,389,369,20
+2026-07-22,Line-B,Shift-3,Housing,480,50,430,42,528,520,8
+2026-07-22,Line-C,Shift-1,Connector,480,35,445,48,487,474,13
+2026-07-22,Line-C,Shift-2,Housing,480,28,452,42,578,573,5
+2026-07-22,Line-C,Shift-3,Bracket,480,52,428,38,593,583,10
+2026-07-23,Line-A,Shift-1,Sensor Mount,480,11,469,55,444,443,1
+2026-07-23,Line-A,Shift-2,Connector,480,38,442,48,501,492,9
+2026-07-23,Line-A,Shift-3,Housing,480,14,466,42,551,545,6
+2026-07-23,Line-B,Shift-1,Connector,480,6,474,48,559,549,10
+2026-07-23,Line-B,Shift-2,Connector,480,38,442,48,497,477,20
+2026-07-23,Line-B,Shift-3,Bracket,480,26,454,38,712,708,4
+2026-07-23,Line-C,Shift-1,Housing,480,54,426,42,543,541,2
+2026-07-23,Line-C,Shift-2,Bracket,480,27,453,38,626,619,7
+2026-07-23,Line-C,Shift-3,Sensor Mount,480,38,442,55,382,376,6
+2026-07-24,Line-A,Shift-1,Connector,480,4,476,48,571,566,5
+2026-07-24,Line-A,Shift-2,Housing,480,20,460,42,622,612,10
+2026-07-24,Line-A,Shift-3,Bracket,480,24,456,38,673,670,3
+2026-07-24,Line-B,Shift-1,Housing,480,17,463,42,607,605,2
+2026-07-24,Line-B,Shift-2,Sensor Mount,480,9,471,55,429,417,12
+2026-07-24,Line-B,Shift-3,Sensor Mount,480,37,443,55,431,426,5
+2026-07-24,Line-C,Shift-1,Bracket,480,57,423,38,613,604,9
+2026-07-24,Line-C,Shift-2,Sensor Mount,480,29,451,55,435,432,3
+2026-07-24,Line-C,Shift-3,Connector,480,45,435,48,458,448,10
+2026-07-25,Line-A,Shift-1,Housing,480,27,453,42,566,560,6
+2026-07-25,Line-A,Shift-2,Bracket,480,0,480,38,751,748,3
+2026-07-25,Line-A,Shift-3,Sensor Mount,480,28,452,55,395,391,4
+2026-07-25,Line-B,Shift-1,Bracket,480,44,436,38,621,615,6
+2026-07-25,Line-B,Shift-2,Connector,480,22,458,48,481,462,19
+2026-07-25,Line-B,Shift-3,Connector,480,22,458,48,571,559,12
+2026-07-25,Line-C,Shift-1,Sensor Mount,480,51,429,55,426,425,1
+2026-07-25,Line-C,Shift-2,Connector,480,30,450,48,513,504,9
+2026-07-25,Line-C,Shift-3,Housing,480,52,428,42,523,515,8
+2026-07-26,Line-A,Shift-1,Bracket,480,21,459,38,642,640,2
+2026-07-26,Line-A,Shift-2,Sensor Mount,480,19,461,55,479,474,5
+2026-07-26,Line-A,Shift-3,Connector,480,0,480,48,522,515,7
+2026-07-26,Line-B,Shift-1,Sensor Mount,480,22,458,55,483,482,1
+2026-07-26,Line-B,Shift-2,Sensor Mount,480,15,465,55,404,390,14
+2026-07-26,Line-B,Shift-3,Housing,480,42,438,42,636,632,4
+2026-07-26,Line-C,Shift-1,Connector,480,52,428,48,487,481,6
+2026-07-26,Line-C,Shift-2,Housing,480,25,455,42,635,627,8
+2026-07-26,Line-C,Shift-3,Bracket,480,46,434,38,593,583,10
+2026-07-27,Line-A,Shift-1,Sensor Mount,480,7,473,55,422,421,1
+2026-07-27,Line-A,Shift-2,Connector,480,53,427,48,496,484,12
+2026-07-27,Line-A,Shift-3,Housing,480,16,464,42,617,607,10
+2026-07-27,Line-B,Shift-1,Connector,480,26,454,48,540,528,12
+2026-07-27,Line-B,Shift-2,Connector,480,15,465,48,545,523,22
+2026-07-27,Line-B,Shift-3,Bracket,480,23,457,38,655,646,9
+2026-07-27,Line-C,Shift-1,Housing,480,60,420,42,552,550,2
+2026-07-27,Line-C,Shift-2,Bracket,480,26,454,38,638,636,2
+2026-07-27,Line-C,Shift-3,Sensor Mount,480,21,459,55,425,421,4
+2026-07-28,Line-A,Shift-1,Connector,480,21,459,48,528,515,13
+2026-07-28,Line-A,Shift-2,Housing,480,23,457,42,607,605,2
+2026-07-28,Line-A,Shift-3,Bracket,480,19,461,38,697,695,2
+2026-07-28,Line-B,Shift-1,Housing,480,21,459,42,555,553,2
+2026-07-28,Line-B,Shift-2,Sensor Mount,480,19,461,55,407,392,15
+2026-07-28,Line-B,Shift-3,Sensor Mount,480,14,466,55,431,423,8
+2026-07-28,Line-C,Shift-1,Bracket,480,59,421,38,558,549,9
+2026-07-28,Line-C,Shift-2,Sensor Mount,480,54,426,55,413,405,8
+2026-07-28,Line-C,Shift-3,Connector,480,25,455,48,537,530,7
+2026-07-29,Line-A,Shift-1,Housing,480,57,423,42,556,554,2
+2026-07-29,Line-A,Shift-2,Bracket,480,19,461,38,735,723,12
+2026-07-29,Line-A,Shift-3,Sensor Mount,480,27,453,55,420,416,4
+2026-07-29,Line-B,Shift-1,Bracket,480,37,443,38,612,610,2
+2026-07-29,Line-B,Shift-2,Connector,480,49,431,48,533,503,30
+2026-07-29,Line-B,Shift-3,Connector,480,41,439,48,532,525,7
+2026-07-29,Line-C,Shift-1,Sensor Mount,480,45,435,55,421,412,9
+2026-07-29,Line-C,Shift-2,Connector,480,32,448,48,530,525,5
+2026-07-29,Line-C,Shift-3,Housing,480,55,425,42,586,574,12
+2026-07-30,Line-A,Shift-1,Bracket,480,49,431,38,617,610,7
+2026-07-30,Line-A,Shift-2,Sensor Mount,480,28,452,55,439,431,8
+2026-07-30,Line-A,Shift-3,Connector,480,29,451,48,507,493,14
+2026-07-30,Line-B,Shift-1,Sensor Mount,480,53,427,55,424,421,3
+2026-07-30,Line-B,Shift-2,Sensor Mount,480,19,461,55,487,473,14
+2026-07-30,Line-B,Shift-3,Housing,480,14,466,42,626,619,7
+2026-07-30,Line-C,Shift-1,Connector,480,40,440,48,506,491,15
+2026-07-30,Line-C,Shift-2,Housing,480,60,420,42,532,530,2
+2026-07-30,Line-C,Shift-3,Bracket,480,54,426,38,549,547,2

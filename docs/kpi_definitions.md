@@ -35,3 +35,21 @@ Quality = Good Units / Total Units
 ```txt
 Scrap Rate = Scrap Units / Total Units
 ```
+
+## Aggregation Rule
+
+Aggregate OEE is not calculated by averaging row-level OEE values. The dashboard first sums planned time, downtime, operating time, units and good units across the selected scope, then recalculates Availability, Performance and Quality from those totals.
+
+This matters when comparing products with different ideal cycle times.
+
+## Default Targets
+
+```txt
+OEE: 85%
+Availability: 90%
+Performance: 95%
+Quality: 99%
+Scrap Rate: maximum 2%
+```
+
+The dashboard reports target deltas in percentage points.
