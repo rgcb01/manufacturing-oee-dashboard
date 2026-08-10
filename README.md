@@ -49,6 +49,16 @@ No confidential company data is used.
 - Downtime minutes
 - Total units and good units
 
+## Dashboard Preview
+
+### KPI Overview and Pareto Charts
+
+![Dashboard overview](assets/screenshots/dashboard-overview.png)
+
+### Filtered Production Records
+
+![Filtered production records](assets/screenshots/production-records.png)
+
 ## How to Run
 
 ```bash
